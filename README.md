@@ -60,3 +60,7 @@ It also saves the processed output into the output directory.
 - Sales aggregation analysis
 - Product category insights
 - Integration with a data warehouse
+
+## Execution Screenshot
+
+![Spark Output](screenshots/output screenshot.png)
