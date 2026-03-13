@@ -1,0 +1,6 @@
+pyspark==3.5.0
+pandas
+pyarrow
+delta-spark
+kafka-python        
+requests

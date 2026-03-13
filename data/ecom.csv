@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_category,order_date,quantity,price,payment_method,country,customer_email
+ORD100000,CUST5141,PROD884,Electronics,2023-09-05,5.0,116.28,UPI,Germany,user2247@example.com
+ORD100001,CUST3593,PROD670,Home,2024-04-24,3.0,390.33,Credit Card,Australia,user1327@example.com
+ORD100002,CUST5806,PROD202,Sports,2024-07-03,5.0,78.27,Cash on Delivery,India,user2894@example.com
+ORD100003,CUST9942,PROD907,Home,2024-01-30,2.0,473.88,Credit Card,Germany,user2123@example.com
+ORD100004,CUST8494,PROD959,Books,2023-02-01,1.0,284.35,Debit Card,Germany,user3731@example.com
+ORD100005,CUST1059,PROD226,,2023-06-17,3.0,,,Canada,user4173@example.com
+ORD100006,CUST2633,PROD223,Sports,2024-08-17,1.0,,Debit Card,USA,user4512@example.com
+ORD100007,CUST7013,PROD828,Sports,2023-07-08,5.0,330.48,,India,user4396@example.com
+ORD100008,CUST5541,PROD696,Sports,,4.0,38.04,Credit Card,UK,user3309@example.com
+ORD100009,CUST8454,PROD530,Clothing,2023-07-09,1.0,116.92,Debit Card,USA,user4525@example.com
+ORD100010,CUST8444,PROD131,Books,2024-07-11,3.0,110.76,UPI,USA,user3491@example.com
+ORD100011,CUST9792,PROD284,Clothing,2024-06-30,2.0,209.52,UPI,UK,user3702@example.com
+ORD100012,CUST7910,,Books,2024-09-27,1.0,54.05,Wallet,Australia,user458@example.com
+ORD100013,CUST5249,PROD423,,2024-07-27,5.0,47.84,Wallet,UK,
+ORD100014,CUST4219,PROD578,Books,2023-06-27,1.0,337.25,,USA,user4110@example.com
+ORD100015,CUST2486,PROD806,Home,2024-08-06,4.0,181.06,Cash on Delivery,,user2397@example.com
+ORD100016,CUST5711,,,2023-06-01,5.0,197.85,Debit Card,UK,user1127@example.com
+ORD100017,CUST4086,PROD171,Sports,2023-09-21,2.0,309.86,Cash on Delivery,Germany,user3714@example.com
+ORD100018,CUST6561,PROD602,Home,2023-04-05,4.0,24.18,Credit Card,,user1280@example.com
+ORD100019,CUST4276,PROD419,Sports,2024-04-08,1.0,141.98,UPI,India,user873@example.com
+ORD100020,CUST8692,PROD448,Sports,2024-07-25,3.0,130.87,Wallet,India,user3342@example.com
+ORD100021,CUST1219,PROD739,Home,2023-10-05,4.0,130.55,Debit Card,,user2505@example.com
+ORD100022,CUST3840,,Books,2024-01-07,5.0,49.83,UPI,Canada,user4497@example.com
+ORD100023,CUST6802,PROD134,Clothing,2023-12-15,2.0,345.73,Wallet,Australia,user3349@example.com
+ORD100024,,PROD516,,2023-09-21,,468.11,Wallet,Germany,
+ORD100025,CUST1597,PROD191,Books,,5.0,35.36,Debit Card,Canada,
+ORD100026,CUST9327,PROD225,Electronics,2024-08-30,2.0,425.17,Credit Card,UK,user1404@example.com
+ORD100027,CUST8865,PROD990,Clothing,2024-07-13,5.0,7.66,UPI,Canada,user1667@example.com
+ORD100028,CUST8542,,,2023-02-15,,239.73,Wallet,UK,user314@example.com
+ORD100029,CUST7109,PROD548,Home,2023-01-28,3.0,445.97,,Australia,user699@example.com
+ORD100030,CUST6887,PROD160,Books,2023-10-13,4.0,298.49,UPI,UK,user828@example.com
+ORD100031,CUST7438,PROD618,,2024-11-06,3.0,79.12,Credit Card,India,user1575@example.com
+ORD100032,CUST9045,PROD581,,2024-06-04,4.0,83.76,UPI,UK,
+ORD100033,,PROD427,Books,2023-04-27,5.0,248.76,Wallet,,user1977@example.com
+ORD100034,CUST6589,PROD831,Books,2024-04-06,4.0,325.18,Cash on Delivery,UK,
+ORD100035,CUST2589,PROD273,Electronics,2023-06-16,,93.07,Credit Card,UK,user2472@example.com
+ORD100036,CUST1718,PROD500,Books,2023-06-21,5.0,124.49,Credit Card,India,user3600@example.com
+ORD100037,CUST1257,PROD551,Beauty,2023-12-30,3.0,317.28,Cash on Delivery,Australia,user628@example.com
+ORD100038,CUST4197,PROD201,Electronics,2024-08-09,3.0,335.0,Credit Card,Australia,user4889@example.com
+ORD100039,CUST4953,PROD645,Home,2023-02-20,4.0,386.49,Credit Card,USA,user1675@example.com
+ORD100040,CUST5392,PROD262,Beauty,,2.0,391.85,UPI,USA,
+ORD100041,CUST8080,PROD597,,2024-06-11,5.0,470.97,UPI,USA,user2967@example.com
+ORD100042,,PROD729,Home,2023-06-15,2.0,72.91,,Australia,user2154@example.com
+ORD100043,CUST9232,PROD227,Electronics,2024-09-08,2.0,450.88,Cash on Delivery,UK,user3991@example.com
+ORD100044,CUST6350,PROD800,Sports,2024-10-10,1.0,426.3,Wallet,Canada,user492@example.com
+ORD100045,CUST9705,PROD640,Clothing,,3.0,,UPI,UK,user3965@example.com
+ORD100046,CUST2732,PROD400,Beauty,2023-03-31,1.0,405.29,Credit Card,Germany,user61@example.com
+ORD100047,CUST5718,PROD138,,2024-08-09,5.0,273.67,Wallet,India,user4090@example.com
+ORD100048,CUST3097,,Electronics,2024-11-04,1.0,202.34,UPI,Canada,user613@example.com
+ORD100049,,PROD635,Clothing,2024-05-13,5.0,213.53,UPI,Germany,user3725@example.com
+ORD100050,CUST6777,PROD725,,2024-03-22,5.0,,Cash on Delivery,Germany,user3220@example.com
+ORD100051,CUST6070,PROD960,Beauty,2024-02-20,1.0,286.75,Credit Card,Germany,user4087@example.com
+ORD100052,,PROD459,Home,2024-04-28,1.0,25.9,Cash on Delivery,USA,user1709@example.com
+ORD100053,CUST4956,PROD826,,2024-12-08,1.0,86.04,UPI,Germany,user2974@example.com
+ORD100054,CUST3754,PROD104,Sports,2024-07-12,3.0,226.79,Debit Card,India,
+ORD100055,,PROD528,Books,2023-02-03,4.0,53.76,Debit Card,Australia,user3795@example.com
+ORD100056,CUST1239,PROD173,Books,2023-06-14,1.0,42.19,Credit Card,USA,user3069@example.com
+ORD100057,CUST9020,PROD656,Beauty,2024-09-13,1.0,390.19,Debit Card,UK,user3437@example.com
+ORD100058,CUST1403,PROD225,Clothing,,2.0,,Wallet,Canada,user3121@example.com
+ORD100059,CUST2856,PROD514,Books,2024-08-16,3.0,312.61,Credit Card,Australia,user4965@example.com
+ORD100060,CUST6448,PROD709,,2023-08-30,3.0,59.96,UPI,USA,user4607@example.com
+ORD100061,CUST5792,PROD869,Home,2023-07-18,3.0,112.71,Debit Card,Germany,user3277@example.com
+ORD100062,CUST1168,PROD865,,2024-06-29,1.0,78.19,Wallet,India,user3084@example.com
+ORD100063,CUST5481,PROD839,Sports,2024-10-24,3.0,134.03,Cash on Delivery,Canada,user2530@example.com
+ORD100064,CUST8637,PROD573,Sports,2023-03-22,5.0,383.89,Credit Card,USA,
+ORD100065,CUST4100,,Beauty,2023-06-18,3.0,,UPI,Germany,user4590@example.com
+ORD100066,CUST5834,PROD900,Sports,2024-09-30,2.0,130.54,Debit Card,Australia,user3723@example.com
+ORD100067,CUST5644,PROD962,Home,2023-06-02,2.0,404.25,Cash on Delivery,Germany,user2868@example.com
+ORD100068,CUST7514,PROD972,Beauty,2023-12-09,2.0,389.1,Credit Card,Australia,user446@example.com
+ORD100069,CUST4875,PROD607,,2024-03-28,3.0,116.27,Cash on Delivery,Germany,
+ORD100070,CUST5617,PROD309,Beauty,2023-02-23,3.0,112.56,Credit Card,Canada,user4367@example.com
+ORD100071,CUST6694,PROD361,Electronics,2024-06-01,,189.66,,India,user4491@example.com
+ORD100072,CUST4896,PROD312,Sports,2024-08-22,4.0,385.83,Credit Card,Australia,user1930@example.com
+ORD100073,CUST3726,PROD878,Clothing,2024-05-11,1.0,448.28,Credit Card,UK,user271@example.com
+ORD100074,CUST5450,PROD333,Books,2023-11-20,1.0,208.25,UPI,UK,user561@example.com
+ORD100075,CUST9379,PROD855,Sports,,3.0,93.52,,USA,user2051@example.com
+ORD100076,CUST8271,PROD662,Electronics,2023-01-31,1.0,13.14,Cash on Delivery,Canada,
+ORD100077,CUST5780,PROD276,Sports,2024-01-05,3.0,393.61,,UK,user4848@example.com
+ORD100078,CUST1068,PROD901,Electronics,2023-01-28,2.0,53.45,Debit Card,Australia,user3443@example.com
+ORD100079,CUST8558,PROD218,Sports,2024-10-08,3.0,341.33,Credit Card,USA,user3195@example.com
+ORD100080,CUST8937,PROD774,Beauty,2024-08-13,4.0,427.82,Wallet,India,user4372@example.com
+ORD100081,CUST1067,PROD131,Home,2023-10-28,3.0,452.11,Credit Card,India,user3893@example.com
+ORD100082,CUST2163,PROD446,Books,2024-02-18,,361.7,Credit Card,UK,user1375@example.com
+ORD100083,CUST7809,PROD321,Sports,2023-10-11,4.0,,UPI,UK,user1808@example.com
+ORD100084,CUST8218,PROD404,Books,2023-05-09,1.0,416.75,UPI,India,
+ORD100085,CUST3637,PROD987,Electronics,2023-06-19,3.0,286.49,UPI,USA,user4722@example.com
+ORD100086,CUST7405,PROD463,Electronics,2024-09-01,,376.49,Wallet,India,user2087@example.com
+ORD100087,CUST1982,PROD941,Electronics,2023-08-07,5.0,371.56,Cash on Delivery,Germany,
+ORD100088,CUST8283,PROD182,Beauty,2023-10-09,5.0,332.53,Credit Card,Australia,user2255@example.com
+ORD100089,,PROD969,Beauty,2023-12-03,,410.45,,India,user1645@example.com
+ORD100090,CUST1146,PROD427,Electronics,2024-12-13,5.0,,,Canada,user3334@example.com
+ORD100091,CUST7450,PROD152,,2023-09-12,5.0,256.08,UPI,USA,user3296@example.com
+ORD100092,CUST1860,PROD346,Beauty,2023-07-02,1.0,264.7,Cash on Delivery,USA,user283@example.com
+ORD100093,CUST5224,PROD884,Clothing,2023-06-12,2.0,198.01,,,user3241@example.com
+ORD100094,CUST5082,PROD618,Home,2024-02-02,4.0,329.07,Credit Card,Canada,user3318@example.com
+ORD100095,CUST2475,PROD290,Sports,,5.0,450.47,Cash on Delivery,Canada,user4549@example.com
+ORD100096,CUST5849,PROD733,,2024-07-18,1.0,447.16,UPI,Germany,user3185@example.com
+ORD100097,CUST5061,,Electronics,2024-12-12,5.0,499.39,UPI,Germany,user1870@example.com
+ORD100098,CUST8608,PROD150,Clothing,2023-12-21,5.0,,Debit Card,Germany,user3797@example.com
+ORD100099,CUST9590,PROD334,Electronics,2023-09-29,1.0,385.94,Credit Card,India,user3023@example.com
+ORD100100,CUST7860,PROD602,Clothing,2024-05-08,3.0,142.5,Credit Card,India,user3943@example.com
+ORD100101,CUST2919,PROD461,,,4.0,445.95,Credit Card,Germany,user1883@example.com
+ORD100102,CUST5594,PROD475,Sports,,5.0,259.31,Debit Card,India,user1572@example.com
+ORD100103,CUST3869,PROD418,Beauty,2023-05-07,4.0,90.37,UPI,UK,user3281@example.com
+ORD100104,CUST4240,PROD191,Electronics,2024-03-19,5.0,162.31,Debit Card,Canada,user1175@example.com
+ORD100105,CUST7666,,Electronics,2024-05-19,5.0,487.42,Debit Card,India,user2884@example.com
+ORD100106,CUST3455,,Sports,2024-10-03,1.0,398.3,Wallet,Germany,user1113@example.com
+ORD100107,CUST5201,,,2024-08-18,1.0,84.86,Wallet,Canada,user178@example.com
+ORD100108,CUST5633,PROD438,Electronics,2023-10-09,,196.68,UPI,UK,user2648@example.com
+ORD100109,CUST7842,PROD689,Home,2024-03-25,1.0,,Credit Card,India,user806@example.com
+ORD100110,CUST4511,PROD802,,2024-08-21,1.0,152.22,Credit Card,,user1948@example.com
+ORD100111,CUST7774,PROD255,Home,2023-05-14,1.0,486.42,,Canada,user4713@example.com
+ORD100112,CUST4279,PROD905,Home,2023-03-25,2.0,408.03,Debit Card,Canada,user2922@example.com
+ORD100113,CUST8606,,,2023-03-12,1.0,23.78,Wallet,,user771@example.com
+ORD100114,CUST7173,PROD428,Electronics,2023-07-01,5.0,103.05,Cash on Delivery,Canada,user3690@example.com
+ORD100115,,PROD154,Home,2024-11-02,4.0,387.84,Debit Card,Australia,user2596@example.com
+ORD100116,CUST9933,PROD793,Electronics,2024-09-19,3.0,498.48,Cash on Delivery,Germany,user4767@example.com
+ORD100117,CUST1492,PROD762,Electronics,2023-03-12,,246.74,Cash on Delivery,India,user3154@example.com
+ORD100118,,PROD104,Electronics,2024-07-26,5.0,227.7,,Canada,user1789@example.com
+ORD100119,CUST2741,PROD920,,2023-05-06,,289.46,Debit Card,Canada,user3716@example.com
+ORD100120,CUST3082,PROD133,Electronics,2024-06-30,2.0,64.84,Cash on Delivery,India,user2121@example.com
+ORD100121,CUST4768,PROD345,Sports,2024-09-26,3.0,476.17,Cash on Delivery,UK,user4857@example.com
+ORD100122,CUST7051,,Sports,2024-05-10,,105.0,Cash on Delivery,Australia,user4789@example.com
+ORD100123,CUST1529,PROD874,Home,,2.0,42.42,Wallet,Germany,user2394@example.com
+ORD100124,CUST9563,PROD748,Sports,2023-12-03,1.0,81.38,UPI,Canada,user2389@example.com
+ORD100125,CUST5820,PROD187,Sports,,2.0,343.27,Credit Card,,user4133@example.com
+ORD100126,CUST1797,PROD400,Electronics,2024-07-14,5.0,189.14,Wallet,Australia,
+ORD100127,,PROD516,Sports,,5.0,122.74,Debit Card,Canada,user3469@example.com
+ORD100128,CUST6358,PROD871,Sports,2023-08-24,3.0,,UPI,Australia,user923@example.com
+ORD100129,CUST6382,PROD875,,,1.0,71.12,UPI,,user1571@example.com
+ORD100130,CUST3295,PROD630,Books,2023-10-22,3.0,142.06,Debit Card,Australia,user2718@example.com
+ORD100131,CUST7176,PROD871,Electronics,2024-03-16,3.0,425.28,Debit Card,USA,user631@example.com
+ORD100132,,PROD633,Sports,2023-11-15,1.0,215.58,Wallet,India,user1806@example.com
+ORD100133,CUST1179,,Books,2024-08-10,3.0,36.79,Wallet,UK,user2165@example.com
+ORD100134,CUST2072,PROD643,,,1.0,389.36,UPI,Australia,user3145@example.com
+ORD100135,CUST8625,PROD728,Clothing,2023-01-30,1.0,44.1,UPI,Australia,user2424@example.com
+ORD100136,CUST4385,PROD708,Sports,2024-01-04,5.0,302.34,UPI,Canada,user3688@example.com
+ORD100137,CUST5502,,Beauty,2024-05-20,4.0,,Cash on Delivery,USA,user3101@example.com
+ORD100138,,PROD445,,2024-11-25,4.0,298.96,,India,user3198@example.com
+ORD100139,CUST6621,PROD458,,,2.0,66.44,UPI,,user4372@example.com
+ORD100140,,PROD721,,2023-09-19,3.0,412.33,Wallet,,user4939@example.com
+ORD100141,CUST3649,PROD162,Electronics,2023-10-13,4.0,250.11,Debit Card,India,user4645@example.com
+ORD100142,CUST2977,PROD223,Clothing,2023-08-09,,153.95,Credit Card,,user2296@example.com
+ORD100143,CUST8858,,Electronics,2024-09-02,3.0,251.47,UPI,USA,user4850@example.com
+ORD100144,CUST9135,PROD954,,2023-09-23,4.0,135.47,Credit Card,Canada,user101@example.com
+ORD100145,CUST1338,PROD731,,2024-12-07,3.0,285.57,UPI,Canada,user3457@example.com
+ORD100146,CUST9096,PROD483,Clothing,2024-04-12,3.0,151.9,Cash on Delivery,,
+ORD100147,CUST2239,PROD172,Clothing,2024-06-22,3.0,93.35,Cash on Delivery,,user2697@example.com
+ORD100148,CUST6563,PROD130,Clothing,2023-08-09,4.0,270.48,Debit Card,Australia,user736@example.com
+ORD100149,CUST9789,PROD585,Sports,2024-01-15,3.0,407.87,,UK,user1351@example.com
+ORD100150,CUST5233,PROD643,Home,,2.0,34.18,UPI,Germany,user1404@example.com
+ORD100151,,PROD650,Sports,2023-11-07,1.0,,Debit Card,Australia,user2491@example.com
+ORD100152,CUST7620,PROD400,Clothing,2023-07-17,4.0,32.13,Debit Card,Canada,user490@example.com
+ORD100153,CUST7450,PROD749,,2024-05-24,2.0,289.29,Cash on Delivery,USA,user65@example.com
+ORD100154,,PROD616,Beauty,,5.0,124.74,Debit Card,USA,user3725@example.com
+ORD100155,CUST1071,PROD122,Sports,2024-09-15,4.0,224.5,Cash on Delivery,Canada,user4677@example.com
+ORD100156,CUST6974,PROD251,Clothing,2024-07-11,5.0,,Cash on Delivery,,user920@example.com
+ORD100157,CUST6426,,Electronics,2024-11-15,4.0,238.58,Credit Card,USA,user2743@example.com
+ORD100158,CUST9023,PROD254,Home,2023-09-17,2.0,192.08,UPI,Australia,user1796@example.com
+ORD100159,CUST3014,PROD487,Sports,2024-10-09,3.0,253.53,Credit Card,Canada,user1781@example.com
+ORD100160,CUST2950,PROD338,Sports,2024-07-31,3.0,364.46,Credit Card,India,user3911@example.com
+ORD100161,CUST2996,PROD614,Sports,2023-05-27,,24.05,Debit Card,Germany,user2550@example.com
+ORD100162,CUST9708,PROD765,Books,2023-12-26,3.0,428.81,Credit Card,India,user1158@example.com
+ORD100163,CUST6771,PROD959,Home,2023-09-24,2.0,34.61,Debit Card,India,user3782@example.com
+ORD100164,CUST4072,PROD617,Electronics,2023-12-11,1.0,404.7,UPI,USA,user1374@example.com
+ORD100165,CUST8232,PROD810,Sports,2023-11-11,4.0,456.3,UPI,India,user2480@example.com
+ORD100166,CUST8603,PROD990,Books,2023-12-06,2.0,187.65,UPI,Germany,user4666@example.com
+ORD100167,CUST3334,PROD123,Beauty,2024-08-18,,166.29,Debit Card,Germany,user131@example.com
+ORD100168,CUST7238,PROD239,Beauty,2024-12-21,4.0,38.76,,Canada,user2833@example.com
+ORD100169,CUST2734,PROD360,Clothing,2023-02-16,,178.23,UPI,Australia,user3810@example.com
+ORD100170,CUST8564,PROD426,Sports,2024-12-16,3.0,416.06,Debit Card,India,user4150@example.com
+ORD100171,CUST7981,PROD813,Home,2024-08-30,4.0,75.41,Debit Card,India,user1950@example.com
+ORD100172,CUST8983,PROD422,Books,2024-07-17,2.0,,Debit Card,India,user1731@example.com
+ORD100173,CUST6563,PROD955,Sports,2023-06-05,5.0,257.39,Wallet,Germany,
+ORD100174,,PROD389,Sports,2024-08-31,,,UPI,India,user2029@example.com
+ORD100175,CUST6723,PROD978,Clothing,2023-11-29,5.0,281.8,,India,user3940@example.com
+ORD100176,CUST6219,PROD446,Electronics,,4.0,397.69,Credit Card,,
+ORD100177,CUST6173,PROD177,Electronics,2024-04-14,,68.84,Credit Card,UK,user1445@example.com
+ORD100178,CUST8797,PROD549,Books,2024-11-24,1.0,196.81,UPI,Germany,user2498@example.com
+ORD100179,CUST3175,PROD841,Sports,2024-04-11,2.0,474.3,Debit Card,Canada,user1201@example.com
+ORD100180,CUST5446,PROD445,Books,2023-04-30,1.0,251.72,UPI,USA,user3435@example.com
+ORD100181,CUST6743,PROD282,Electronics,2024-04-05,,,,Germany,user1978@example.com
+ORD100182,,PROD164,Beauty,2024-12-20,4.0,401.94,Credit Card,Australia,user1222@example.com
+ORD100183,CUST5143,PROD794,Sports,2024-08-28,4.0,18.76,UPI,UK,user4663@example.com
+ORD100184,CUST8448,,Clothing,2024-11-07,4.0,479.11,Wallet,USA,user1012@example.com
+ORD100185,CUST9600,PROD611,Books,,4.0,318.94,Credit Card,Germany,user2785@example.com
+ORD100186,CUST3583,,Sports,2024-12-16,5.0,463.9,UPI,USA,user981@example.com
+ORD100187,CUST6500,PROD257,Sports,2023-09-30,5.0,,Debit Card,,user3763@example.com
+ORD100188,CUST5149,PROD703,Beauty,2023-08-29,3.0,414.96,Credit Card,UK,user1249@example.com
+ORD100189,CUST3905,PROD803,Sports,2023-09-02,3.0,151.55,Debit Card,India,user826@example.com
+ORD100190,CUST4136,PROD721,Electronics,2024-10-26,3.0,11.83,Cash on Delivery,India,
+ORD100191,CUST9840,PROD615,Beauty,2023-07-21,1.0,213.07,Cash on Delivery,Germany,user1403@example.com
+ORD100192,,PROD836,Electronics,2024-12-13,5.0,441.02,UPI,Germany,user970@example.com
+ORD100193,CUST6572,PROD609,Sports,2024-05-27,5.0,29.57,Credit Card,USA,
+ORD100194,CUST7019,PROD924,Beauty,2023-12-06,,,Wallet,UK,user2805@example.com
+ORD100195,CUST2386,,Sports,2023-09-07,3.0,437.94,,India,user1749@example.com
+ORD100196,CUST9903,PROD831,Books,2023-11-07,5.0,335.34,Debit Card,,
+ORD100197,CUST2321,PROD151,Home,2024-02-26,4.0,30.79,,USA,user1888@example.com
+ORD100198,CUST3986,PROD755,Books,2023-10-21,1.0,310.89,Debit Card,USA,
+ORD100199,,PROD890,Electronics,2023-09-01,4.0,71.71,Wallet,India,user4158@example.com
+ORD100200,CUST3718,PROD334,Beauty,2024-12-25,4.0,255.24,Debit Card,USA,user1813@example.com
+ORD100201,CUST7240,PROD116,Home,2024-12-31,,58.17,Debit Card,Germany,user2076@example.com
+ORD100202,CUST7337,PROD570,Books,2023-06-23,3.0,178.48,UPI,Canada,user792@example.com
+ORD100203,CUST9564,PROD347,Electronics,2024-05-02,,246.78,Wallet,,user4354@example.com
+ORD100204,CUST5798,PROD618,Beauty,2024-09-29,4.0,,Credit Card,USA,user1596@example.com
+ORD100205,CUST4852,,Electronics,2024-07-14,3.0,393.58,Credit Card,India,user1670@example.com
+ORD100206,,PROD664,Electronics,2023-07-31,2.0,475.17,Cash on Delivery,Germany,user743@example.com
+ORD100207,CUST5568,PROD540,Books,2023-09-25,1.0,259.96,Cash on Delivery,USA,user3061@example.com
+ORD100208,CUST1587,PROD314,Electronics,2023-08-04,5.0,419.43,Credit Card,UK,user2719@example.com
+ORD100209,CUST3151,,Books,2024-05-19,2.0,355.77,Wallet,Australia,user1334@example.com
+ORD100210,CUST1041,,Clothing,2023-02-03,2.0,446.6,UPI,Australia,user407@example.com
+ORD100211,CUST3476,PROD740,Beauty,,2.0,69.15,UPI,Germany,
+ORD100212,CUST3629,PROD423,Clothing,,4.0,102.77,Wallet,UK,user2540@example.com
+ORD100213,CUST9578,PROD196,Beauty,2024-06-26,4.0,39.29,Credit Card,Australia,user846@example.com
+ORD100214,CUST6520,PROD873,Clothing,2024-11-02,5.0,254.05,UPI,Germany,user4623@example.com
+ORD100215,CUST3435,PROD642,Books,2023-11-17,4.0,476.36,Cash on Delivery,India,user3115@example.com
+ORD100216,CUST5627,PROD677,Electronics,2023-11-19,4.0,291.45,,India,user1774@example.com
+ORD100217,CUST3627,PROD606,Clothing,2023-10-28,4.0,464.03,UPI,Germany,user3656@example.com
+ORD100218,CUST8292,PROD389,Books,2023-11-30,4.0,167.47,Debit Card,Australia,user1314@example.com
+ORD100219,CUST3879,PROD250,Clothing,2024-02-05,1.0,92.24,Debit Card,Germany,user3861@example.com
+ORD100220,CUST9531,PROD739,Beauty,2024-02-02,1.0,422.95,Wallet,USA,user1474@example.com
+ORD100221,CUST6616,PROD891,Beauty,,5.0,336.12,,USA,user3154@example.com
+ORD100222,CUST6381,,,2023-07-09,1.0,241.48,UPI,,user4965@example.com
+ORD100223,,PROD161,Clothing,2024-10-22,4.0,77.55,,Canada,user3270@example.com
+ORD100224,CUST9146,PROD997,Home,2023-11-24,1.0,344.52,Wallet,USA,user488@example.com
+ORD100225,CUST1564,PROD632,Clothing,2024-08-06,3.0,,Wallet,India,user1046@example.com
+ORD100226,CUST9445,PROD941,Home,2023-05-07,3.0,363.68,Wallet,Canada,user3344@example.com
+ORD100227,,PROD837,Home,2023-10-20,1.0,33.35,,Australia,user4346@example.com
+ORD100228,CUST1064,,Electronics,2023-01-15,2.0,245.31,UPI,Australia,
+ORD100229,CUST4576,PROD586,Home,2024-04-22,5.0,290.86,Debit Card,,user1055@example.com
+ORD100230,CUST7925,,Clothing,2023-10-12,4.0,50.96,Wallet,Germany,user1203@example.com
+ORD100231,CUST6388,PROD578,Beauty,2024-08-06,1.0,,Debit Card,UK,user45@example.com
+ORD100232,CUST8333,PROD235,Beauty,2024-11-05,3.0,191.98,UPI,India,user3531@example.com
+ORD100233,CUST5543,PROD721,Home,2024-07-18,4.0,247.65,Wallet,India,user4327@example.com
+ORD100234,CUST4996,PROD228,Electronics,2024-06-03,5.0,304.92,Debit Card,USA,user4932@example.com
+ORD100235,CUST2129,PROD287,Beauty,2023-07-22,5.0,,Debit Card,,
+ORD100236,CUST6048,PROD223,Clothing,2024-04-13,1.0,295.49,Cash on Delivery,Australia,user3965@example.com
+ORD100237,CUST2760,PROD177,Home,2024-08-21,1.0,240.91,Wallet,,user1725@example.com
+ORD100238,CUST2262,PROD246,Sports,2023-03-10,5.0,490.54,Credit Card,Australia,user3810@example.com
+ORD100239,CUST5169,PROD460,Electronics,2024-09-17,3.0,46.16,,Canada,user2318@example.com
+ORD100240,,PROD101,Home,2024-06-18,2.0,,,Canada,user2889@example.com
+ORD100241,CUST6865,PROD958,Sports,2023-07-02,2.0,282.51,UPI,Germany,user486@example.com
+ORD100242,CUST1690,PROD323,Electronics,2023-11-22,3.0,258.76,Cash on Delivery,Germany,user2019@example.com
+ORD100243,CUST7094,PROD125,Clothing,2024-04-26,1.0,83.92,Credit Card,Australia,user3895@example.com
+ORD100244,CUST5357,PROD328,Home,2023-06-02,4.0,298.35,Debit Card,India,user1424@example.com
+ORD100245,CUST8160,PROD989,Clothing,2023-08-12,1.0,482.3,UPI,Canada,user3169@example.com
+ORD100246,CUST9025,PROD727,Home,2024-01-18,5.0,189.74,Wallet,Canada,user3154@example.com
+ORD100247,CUST7417,PROD129,Clothing,2024-03-15,5.0,163.93,,USA,user3477@example.com
+ORD100248,CUST3074,PROD424,Home,2023-11-25,4.0,489.59,Cash on Delivery,UK,user4992@example.com
+ORD100249,CUST7293,PROD502,,2024-11-29,,347.17,Cash on Delivery,India,user3340@example.com
+ORD100250,,PROD977,Home,2024-03-25,,284.84,Debit Card,UK,
+ORD100251,CUST3260,PROD882,,2024-09-09,4.0,53.92,Debit Card,Canada,
+ORD100252,,PROD571,Clothing,2024-07-10,1.0,70.24,Wallet,Australia,user3457@example.com
+ORD100253,CUST5107,PROD554,Electronics,2024-08-20,5.0,207.28,,Germany,
+ORD100254,CUST3090,PROD464,Beauty,2024-05-22,1.0,,Cash on Delivery,,user3862@example.com
+ORD100255,CUST1322,PROD272,Clothing,,4.0,476.7,Cash on Delivery,UK,user3492@example.com
+ORD100256,,PROD105,Clothing,2024-01-20,1.0,,UPI,USA,user233@example.com
+ORD100257,CUST7494,PROD157,,,5.0,201.44,Wallet,USA,user363@example.com
+ORD100258,CUST7490,PROD972,Electronics,2024-02-05,5.0,131.01,Wallet,,
+ORD100259,CUST4873,PROD294,Electronics,2023-06-30,1.0,360.04,Credit Card,,user3919@example.com
+ORD100260,CUST2851,PROD647,Books,2023-03-29,1.0,192.78,Wallet,India,user3990@example.com
+ORD100261,CUST4307,PROD542,Sports,,5.0,376.47,Debit Card,Germany,user4428@example.com
+ORD100262,CUST4045,PROD382,Books,2024-06-08,2.0,390.11,UPI,Canada,user2595@example.com
+ORD100263,CUST3187,PROD545,Electronics,2024-10-20,3.0,,UPI,Australia,
+ORD100264,,PROD184,Electronics,2024-09-18,2.0,79.81,Wallet,UK,user773@example.com
+ORD100265,CUST9550,PROD914,,2023-09-29,4.0,467.2,Debit Card,Australia,user1407@example.com
+ORD100266,CUST8822,PROD304,Sports,2023-01-12,2.0,211.51,UPI,USA,user10@example.com
+ORD100267,,PROD614,Home,2023-12-25,4.0,426.26,Wallet,UK,user4279@example.com
+ORD100268,CUST5751,PROD700,,2024-12-22,1.0,367.16,Credit Card,USA,user499@example.com
+ORD100269,CUST7908,PROD454,Home,2024-06-04,1.0,253.3,Credit Card,USA,user2489@example.com
+ORD100270,CUST9889,PROD898,Books,2023-01-21,4.0,499.28,,,user2749@example.com
+ORD100271,CUST8158,PROD407,,,5.0,329.04,Wallet,Canada,
+ORD100272,CUST4522,PROD804,Electronics,2023-02-21,1.0,405.81,,Australia,user1300@example.com
+ORD100273,CUST8927,PROD497,Electronics,2024-01-10,1.0,226.84,Wallet,Germany,user3796@example.com
+ORD100274,CUST1075,PROD710,Clothing,2024-03-06,4.0,344.28,,Canada,user655@example.com
+ORD100275,CUST2614,PROD843,Clothing,2024-11-23,3.0,,Cash on Delivery,Australia,user489@example.com
+ORD100276,CUST4326,PROD189,Books,2023-09-08,2.0,67.46,Wallet,Canada,user310@example.com
+ORD100277,CUST9753,PROD238,Beauty,2023-12-24,3.0,95.26,Cash on Delivery,UK,
+ORD100278,CUST2620,PROD211,Home,2023-11-18,2.0,329.81,Debit Card,Australia,user4098@example.com
+ORD100279,CUST5470,PROD961,Clothing,2024-01-20,5.0,471.81,Debit Card,UK,user2940@example.com
+ORD100280,CUST5275,PROD863,Beauty,2023-01-03,,106.1,,USA,user3992@example.com
+ORD100281,CUST3421,PROD106,Clothing,2024-08-16,5.0,275.06,UPI,,user4890@example.com
+ORD100282,CUST9214,PROD824,Books,2023-03-16,1.0,197.0,Credit Card,India,
+ORD100283,CUST7178,,Beauty,2024-08-28,4.0,484.99,Wallet,Canada,user1704@example.com
+ORD100284,CUST1316,PROD512,,,3.0,,Cash on Delivery,UK,user3468@example.com
+ORD100285,CUST3254,PROD385,Books,2024-06-07,1.0,374.73,,Germany,user3407@example.com
+ORD100286,CUST4272,,Clothing,2024-08-17,2.0,419.02,Cash on Delivery,Australia,user3945@example.com
+ORD100287,CUST3975,PROD139,Beauty,2024-01-17,,,Wallet,USA,user4343@example.com
+ORD100288,CUST3905,PROD250,Books,2023-11-14,5.0,187.75,Cash on Delivery,Germany,user1436@example.com
+ORD100289,CUST7409,PROD966,Beauty,2023-11-24,3.0,348.85,Credit Card,,user749@example.com
+ORD100290,,PROD404,,2023-09-19,3.0,212.3,Credit Card,India,user1074@example.com
+ORD100291,CUST1797,PROD173,Electronics,,5.0,,Credit Card,Germany,user1404@example.com
+ORD100292,CUST6033,PROD751,Home,2024-03-17,2.0,,Wallet,USA,user2737@example.com
+ORD100293,CUST5071,PROD698,Clothing,2024-04-17,1.0,406.28,UPI,USA,user134@example.com
+ORD100294,CUST5146,PROD763,Books,2023-06-26,2.0,,Cash on Delivery,Canada,user1278@example.com
+ORD100295,CUST7050,,Beauty,2024-05-22,3.0,16.82,Credit Card,Germany,
+ORD100296,CUST1453,,Clothing,2024-08-19,5.0,428.94,Debit Card,USA,user794@example.com
+ORD100297,CUST9825,PROD681,Home,2023-05-29,5.0,432.58,,Germany,user3934@example.com
+ORD100298,,PROD681,Beauty,2024-05-25,1.0,,Wallet,Germany,
+ORD100299,CUST7598,PROD211,,2023-04-19,,257.95,Credit Card,India,user4846@example.com
+ORD100300,CUST9452,PROD724,Home,2024-10-27,1.0,20.5,Debit Card,USA,user3726@example.com
+ORD100301,CUST5696,PROD875,Beauty,2023-03-23,5.0,403.08,UPI,USA,user1395@example.com
+ORD100302,CUST5256,PROD440,,2023-05-27,1.0,204.6,Cash on Delivery,UK,user1624@example.com
+ORD100303,CUST6870,PROD365,Electronics,2024-03-02,2.0,422.96,UPI,Germany,user3036@example.com
+ORD100304,CUST3063,PROD737,Clothing,2023-06-17,3.0,76.53,Credit Card,,user2162@example.com
+ORD100305,CUST3911,,Electronics,2023-01-09,4.0,,,India,user426@example.com
+ORD100306,CUST2416,PROD182,Home,2023-09-19,,,UPI,UK,user1606@example.com
+ORD100307,,PROD420,Electronics,2024-01-15,4.0,494.66,UPI,Australia,user3456@example.com
+ORD100308,CUST5258,PROD926,Electronics,2023-07-08,3.0,232.67,Credit Card,Canada,user4063@example.com
+ORD100309,,PROD817,Home,2023-01-17,3.0,,Cash on Delivery,USA,user4699@example.com
+ORD100310,CUST9662,,Books,2023-08-30,,318.03,Cash on Delivery,India,user1765@example.com
+ORD100311,CUST4910,PROD701,Beauty,2023-05-03,5.0,203.99,Cash on Delivery,UK,user655@example.com
+ORD100312,CUST9405,PROD194,Home,2023-12-25,2.0,378.52,Cash on Delivery,Canada,user4345@example.com
+ORD100313,CUST6942,PROD604,Clothing,2024-12-05,2.0,394.87,Cash on Delivery,Canada,
+ORD100314,CUST3245,PROD249,Clothing,2024-04-04,3.0,,Wallet,Germany,user2710@example.com
+ORD100315,CUST8797,PROD858,Sports,2024-12-13,4.0,440.34,,India,user52@example.com
+ORD100316,CUST5205,PROD283,Clothing,2024-11-13,5.0,213.54,Credit Card,,user148@example.com
+ORD100317,CUST4563,PROD336,Books,2024-04-23,1.0,78.49,Credit Card,Australia,
+ORD100318,CUST2651,PROD268,,2024-11-02,,382.34,Cash on Delivery,UK,user1653@example.com
+ORD100319,CUST6398,PROD148,Sports,2024-01-09,5.0,339.45,Cash on Delivery,,user4491@example.com
+ORD100320,CUST9496,,Clothing,2024-02-23,2.0,,Credit Card,Germany,user2650@example.com
+ORD100321,CUST5158,PROD638,Beauty,2023-05-23,,274.02,,India,user4209@example.com
+ORD100322,CUST3279,PROD983,,2024-10-05,2.0,90.81,Debit Card,India,user2165@example.com
+ORD100323,CUST6430,PROD828,Clothing,2024-12-31,2.0,461.54,Debit Card,Canada,user371@example.com
+ORD100324,CUST2905,PROD540,Electronics,2023-08-04,5.0,241.55,UPI,Australia,user2226@example.com
+ORD100325,CUST1120,,Beauty,2023-05-20,4.0,49.4,Credit Card,UK,user745@example.com
+ORD100326,CUST2988,PROD288,,2024-10-31,4.0,67.17,Cash on Delivery,USA,user693@example.com
+ORD100327,CUST7266,PROD521,Sports,2024-01-18,3.0,474.12,UPI,Germany,user856@example.com
+ORD100328,CUST7117,PROD725,,2024-07-17,4.0,316.11,UPI,,user4838@example.com
+ORD100329,CUST8026,PROD336,Beauty,2023-09-22,2.0,322.85,Debit Card,Germany,user3630@example.com
+ORD100330,CUST3596,PROD394,,,5.0,273.19,Debit Card,UK,user1961@example.com
+ORD100331,CUST4984,PROD143,Beauty,2023-01-19,3.0,378.66,Cash on Delivery,India,user218@example.com
+ORD100332,CUST6019,PROD481,Home,2024-11-06,3.0,104.29,Wallet,Australia,user1003@example.com
+ORD100333,,PROD386,Sports,2023-09-17,1.0,64.8,Cash on Delivery,Australia,user1323@example.com
+ORD100334,CUST1862,PROD697,Books,2024-09-29,1.0,67.78,Wallet,USA,user4301@example.com
+ORD100335,CUST5892,PROD443,Clothing,2023-09-16,2.0,424.48,Cash on Delivery,Germany,user2146@example.com
+ORD100336,CUST8755,PROD396,Sports,2023-06-03,1.0,227.51,Cash on Delivery,USA,user1838@example.com
+ORD100337,CUST1032,PROD701,Beauty,,3.0,,UPI,Australia,user669@example.com
+ORD100338,CUST7625,PROD940,Beauty,,5.0,447.28,,,user2436@example.com
+ORD100339,CUST3659,PROD798,Beauty,2024-12-11,4.0,425.61,,Australia,user3320@example.com
+ORD100340,CUST1154,,Sports,2024-07-06,3.0,261.1,Wallet,UK,
+ORD100341,CUST6226,PROD144,Sports,2023-03-24,4.0,265.98,Credit Card,USA,user1153@example.com
+ORD100342,CUST3966,,Beauty,2024-07-11,,304.9,,India,user3234@example.com
+ORD100343,CUST8550,,Electronics,,5.0,77.55,Cash on Delivery,Germany,
+ORD100344,CUST7904,PROD295,Beauty,2023-08-03,2.0,,Credit Card,UK,user1014@example.com
+ORD100345,CUST6410,PROD778,Beauty,2023-02-21,1.0,195.54,Wallet,USA,user4718@example.com
+ORD100346,CUST2326,PROD521,Beauty,2024-06-22,3.0,404.72,Credit Card,Germany,user187@example.com
+ORD100347,CUST5022,PROD689,,2024-12-22,,142.26,Cash on Delivery,Germany,user3310@example.com
+ORD100348,CUST9496,PROD619,Books,2024-10-21,5.0,420.1,Debit Card,Australia,user388@example.com
+ORD100349,,PROD501,Electronics,2023-08-27,3.0,361.07,Wallet,Germany,user2405@example.com
+ORD100350,CUST9210,PROD440,Beauty,2023-10-24,4.0,75.3,,Germany,user3660@example.com
+ORD100351,CUST9169,PROD868,Electronics,2024-04-20,5.0,154.31,,,user629@example.com
+ORD100352,CUST7684,PROD742,Clothing,2024-12-24,2.0,403.42,Debit Card,Canada,user3886@example.com
+ORD100353,CUST9062,PROD930,Beauty,2023-12-15,3.0,248.3,UPI,,user3123@example.com
+ORD100354,CUST1579,PROD783,Beauty,2024-08-28,3.0,9.35,UPI,,user2528@example.com
+ORD100355,CUST7984,PROD416,Home,2023-04-01,5.0,181.49,Debit Card,Canada,user3049@example.com
+ORD100356,CUST4862,PROD509,Clothing,2023-05-21,1.0,486.06,Wallet,India,user1638@example.com
+ORD100357,CUST8625,PROD246,Electronics,2024-10-16,1.0,466.24,Cash on Delivery,Germany,user95@example.com
+ORD100358,CUST5425,PROD403,Books,2024-07-04,1.0,396.38,Wallet,USA,
+ORD100359,CUST7471,PROD690,Electronics,2024-05-31,4.0,461.65,,India,user2398@example.com
+ORD100360,CUST7375,PROD775,Beauty,2023-10-02,4.0,489.37,Credit Card,Germany,user4781@example.com
+ORD100361,CUST2031,PROD911,,2024-02-03,5.0,148.01,Cash on Delivery,USA,user1464@example.com
+ORD100362,CUST2379,PROD718,Clothing,2024-04-09,2.0,142.38,Credit Card,Canada,user3970@example.com
+ORD100363,CUST9947,PROD618,Home,,2.0,335.57,Credit Card,Australia,user1075@example.com
+ORD100364,CUST5475,PROD823,Books,2023-05-08,2.0,,Cash on Delivery,UK,user1583@example.com
+ORD100365,CUST8296,,Beauty,2024-11-05,3.0,,UPI,Australia,user826@example.com
+ORD100366,CUST1245,PROD142,Books,2024-03-25,5.0,212.25,UPI,Germany,user2551@example.com
+ORD100367,CUST1114,PROD191,Clothing,2024-04-11,3.0,459.19,Debit Card,Germany,user4209@example.com
+ORD100368,CUST3896,PROD553,Beauty,2023-01-19,,244.56,,UK,
+ORD100369,CUST5705,PROD837,Home,2024-07-05,4.0,219.3,UPI,India,user319@example.com
+ORD100370,CUST1692,,Home,2024-06-14,4.0,219.5,,USA,user1711@example.com
+ORD100371,CUST7981,PROD739,Books,2023-02-03,2.0,253.02,Wallet,Canada,user1134@example.com
+ORD100372,CUST2364,PROD203,Home,2024-04-24,3.0,50.16,Debit Card,,user2590@example.com
+ORD100373,CUST4888,PROD634,Sports,2024-04-10,4.0,168.2,Cash on Delivery,UK,user76@example.com
+ORD100374,,PROD435,Sports,,2.0,25.94,Credit Card,Australia,user1583@example.com
+ORD100375,CUST9658,PROD504,Sports,2024-02-22,2.0,6.69,Debit Card,,user759@example.com
+ORD100376,CUST9611,PROD488,Home,2024-06-30,1.0,86.25,Debit Card,India,user803@example.com
+ORD100377,,PROD636,Electronics,2023-12-03,2.0,142.88,UPI,India,user1256@example.com
+ORD100378,,PROD504,Beauty,2024-12-13,1.0,371.56,Cash on Delivery,Australia,
+ORD100379,CUST8592,PROD850,Clothing,2023-05-25,5.0,159.27,Credit Card,USA,user2000@example.com
+ORD100380,CUST3684,PROD514,Sports,2023-09-30,2.0,329.58,,UK,user1165@example.com
+ORD100381,CUST3899,PROD141,Clothing,2024-05-30,1.0,124.8,Credit Card,India,user587@example.com
+ORD100382,CUST7102,PROD814,Electronics,2023-05-19,1.0,231.08,Credit Card,UK,user854@example.com
+ORD100383,CUST1619,PROD999,Electronics,2024-02-13,5.0,103.62,Wallet,Australia,user1477@example.com
+ORD100384,CUST7325,PROD695,Beauty,2024-11-25,3.0,363.67,Credit Card,Canada,user1806@example.com
+ORD100385,CUST1295,PROD821,Sports,2023-05-07,2.0,87.47,Cash on Delivery,Germany,user4832@example.com
+ORD100386,CUST9259,PROD932,Beauty,2024-12-27,3.0,277.04,Wallet,Australia,user4758@example.com
+ORD100387,CUST2012,PROD840,Sports,2024-04-24,5.0,114.78,,USA,user4018@example.com
+ORD100388,CUST8383,PROD420,Beauty,2024-03-03,4.0,8.87,UPI,USA,user1059@example.com
+ORD100389,CUST5051,PROD189,Electronics,2024-05-11,3.0,469.34,Credit Card,UK,user2996@example.com
+ORD100390,CUST9955,PROD670,Beauty,2024-03-09,,137.23,Debit Card,Australia,user584@example.com
+ORD100391,CUST6444,PROD849,Clothing,2023-05-30,5.0,434.44,UPI,Germany,user3854@example.com
+ORD100392,CUST7221,PROD757,Electronics,,5.0,146.08,Cash on Delivery,Australia,user1845@example.com
+ORD100393,CUST4339,PROD834,Beauty,2024-02-04,2.0,8.44,Credit Card,,user4211@example.com
+ORD100394,CUST3753,PROD778,Electronics,,3.0,378.71,UPI,Germany,user3875@example.com
+ORD100395,CUST2095,PROD245,Books,2024-09-21,1.0,376.96,UPI,Germany,user4417@example.com
+ORD100396,CUST3654,PROD544,Sports,2023-05-27,1.0,234.78,UPI,USA,user4962@example.com
+ORD100397,CUST2955,PROD973,,2023-06-02,2.0,97.26,Debit Card,,user4674@example.com
+ORD100398,CUST3849,PROD918,Home,2023-03-22,2.0,113.64,Cash on Delivery,Australia,user4150@example.com
+ORD100399,CUST6049,PROD151,,2024-01-22,5.0,381.25,Wallet,Canada,user804@example.com
+ORD100400,CUST6754,PROD622,Home,2023-05-11,5.0,217.86,,USA,user33@example.com
+ORD100401,CUST7815,PROD413,Home,2024-11-10,2.0,145.22,Wallet,India,user4523@example.com
+ORD100402,CUST1858,PROD864,Electronics,2023-05-29,1.0,375.56,Wallet,Australia,user4946@example.com
+ORD100403,CUST3689,PROD958,Clothing,,4.0,373.25,,,user3055@example.com
+ORD100404,CUST7551,PROD918,Electronics,2023-05-08,1.0,285.96,Credit Card,USA,user3897@example.com
+ORD100405,CUST8393,,Beauty,2024-06-04,2.0,303.61,UPI,UK,user4224@example.com
+ORD100406,CUST8338,PROD781,Books,2024-01-09,2.0,490.47,UPI,Germany,user3006@example.com
+ORD100407,CUST3563,PROD403,Clothing,2024-02-27,4.0,98.73,Debit Card,Canada,user823@example.com
+ORD100408,CUST8227,PROD295,,2024-07-18,1.0,378.13,Cash on Delivery,USA,user3152@example.com
+ORD100409,CUST3898,PROD578,Sports,2024-07-29,1.0,82.0,Cash on Delivery,Canada,
+ORD100410,CUST9900,PROD259,Home,2023-03-07,5.0,52.35,UPI,UK,user4517@example.com
+ORD100411,CUST3451,PROD837,Beauty,2023-05-04,4.0,381.31,Credit Card,,user2368@example.com
+ORD100412,CUST6869,PROD328,Home,,5.0,239.38,UPI,India,user1606@example.com
+ORD100413,CUST4578,PROD955,Clothing,2024-09-18,5.0,227.68,Debit Card,USA,user1135@example.com
+ORD100414,CUST5787,PROD580,Books,2023-05-25,,355.02,,Germany,
+ORD100415,CUST7521,PROD650,,2024-01-19,1.0,213.94,UPI,UK,user4282@example.com
+ORD100416,CUST8362,PROD998,Beauty,2023-09-08,2.0,387.48,UPI,USA,user2270@example.com
+ORD100417,CUST1375,PROD600,Sports,2023-01-03,3.0,467.4,Debit Card,Australia,user1855@example.com
+ORD100418,CUST7311,PROD256,Books,2023-06-02,,,Wallet,USA,user1845@example.com
+ORD100419,CUST1730,PROD315,,,3.0,478.72,Cash on Delivery,India,user4863@example.com
+ORD100420,CUST4194,PROD448,Clothing,2024-01-15,5.0,477.46,Cash on Delivery,,
+ORD100421,CUST7520,PROD464,Books,2023-07-02,4.0,217.79,UPI,India,user1572@example.com
+ORD100422,CUST3504,PROD929,Electronics,,4.0,277.62,Debit Card,USA,user503@example.com
+ORD100423,CUST2560,PROD621,Clothing,2024-11-08,1.0,122.21,Cash on Delivery,Canada,user406@example.com
+ORD100424,CUST1329,PROD624,Sports,2024-12-27,2.0,292.73,Debit Card,,user596@example.com
+ORD100425,CUST1067,,Clothing,2023-06-29,5.0,485.8,Wallet,Canada,user1631@example.com
+ORD100426,CUST7807,PROD297,Clothing,,1.0,,Wallet,Canada,user4753@example.com
+ORD100427,CUST7105,PROD316,Home,2023-01-07,5.0,301.79,Cash on Delivery,Germany,user1762@example.com
+ORD100428,CUST1448,PROD535,Books,2024-08-25,3.0,,Wallet,Canada,user2738@example.com
+ORD100429,CUST2545,PROD201,Clothing,,1.0,482.4,Wallet,UK,
+ORD100430,CUST6984,PROD542,Books,2024-08-30,5.0,459.08,,India,user1497@example.com
+ORD100431,CUST6341,PROD876,Sports,2023-12-01,2.0,80.17,Wallet,USA,
+ORD100432,CUST6815,PROD266,Electronics,2023-03-09,1.0,54.57,Cash on Delivery,USA,user929@example.com
+ORD100433,,PROD114,Sports,2023-08-01,3.0,189.18,Cash on Delivery,India,user1420@example.com
+ORD100434,CUST9271,PROD667,Sports,2023-10-04,3.0,120.46,Credit Card,USA,user3843@example.com
+ORD100435,CUST2493,PROD956,Beauty,2023-07-01,2.0,231.74,Cash on Delivery,Canada,user2116@example.com
+ORD100436,,PROD391,Sports,2023-01-02,1.0,190.33,Wallet,Australia,user2449@example.com
+ORD100437,CUST7332,PROD509,Electronics,2023-09-11,3.0,191.83,Debit Card,India,user271@example.com
+ORD100438,CUST4376,PROD451,Clothing,2024-05-30,5.0,98.01,Debit Card,Australia,user1884@example.com
+ORD100439,CUST6256,PROD172,Home,2023-07-30,4.0,189.22,,India,user4850@example.com
+ORD100440,CUST3471,PROD530,Electronics,2023-09-30,2.0,234.38,Cash on Delivery,UK,user579@example.com
+ORD100441,CUST5739,PROD365,Electronics,2023-09-23,2.0,130.29,UPI,Australia,user966@example.com
+ORD100442,CUST3441,PROD825,,2024-06-28,3.0,77.02,,USA,
+ORD100443,CUST3309,PROD454,Books,2024-08-11,2.0,,,Germany,user1275@example.com
+ORD100444,CUST9021,PROD501,Beauty,2023-07-14,2.0,244.29,Credit Card,Australia,user2233@example.com
+ORD100445,CUST3386,PROD744,Sports,2023-01-02,1.0,489.01,Wallet,,user4781@example.com
+ORD100446,CUST4791,PROD304,Books,2023-01-04,3.0,59.46,Debit Card,UK,
+ORD100447,CUST4913,PROD687,Clothing,2023-05-03,5.0,260.05,UPI,Canada,user2764@example.com
+ORD100448,CUST8957,PROD542,Beauty,2024-04-03,3.0,238.51,Wallet,USA,user1046@example.com
+ORD100449,CUST4183,PROD427,Sports,,5.0,97.69,UPI,Canada,user2802@example.com
+ORD100450,CUST6706,PROD157,Electronics,2023-06-20,5.0,376.61,Debit Card,Canada,user988@example.com
+ORD100451,CUST6009,PROD768,Books,2024-08-23,4.0,219.36,Cash on Delivery,UK,user246@example.com
+ORD100452,CUST9325,,Sports,2024-09-29,2.0,80.08,Credit Card,Germany,user3017@example.com
+ORD100453,CUST5644,PROD147,Electronics,2024-01-20,5.0,,Credit Card,Canada,
+ORD100454,CUST6880,PROD202,Sports,2023-10-14,2.0,471.09,Cash on Delivery,India,user1284@example.com
+ORD100455,,PROD977,,2024-08-06,3.0,306.62,Debit Card,USA,user2280@example.com
+ORD100456,CUST8976,PROD515,Electronics,2024-05-28,5.0,400.79,Debit Card,UK,user252@example.com
+ORD100457,CUST8260,PROD988,Sports,,3.0,77.58,Cash on Delivery,UK,
+ORD100458,CUST1863,PROD542,Sports,2024-11-24,4.0,221.23,UPI,Canada,user1865@example.com
+ORD100459,CUST6461,PROD308,Clothing,2024-11-11,3.0,425.91,UPI,Australia,user4931@example.com
+ORD100460,CUST7060,PROD857,Beauty,2024-01-03,5.0,280.8,Cash on Delivery,,
+ORD100461,,PROD436,Home,2023-05-25,3.0,37.69,UPI,Australia,user1139@example.com
+ORD100462,CUST9497,PROD339,Books,2024-09-15,4.0,293.16,Cash on Delivery,,user3859@example.com
+ORD100463,CUST9143,PROD156,Beauty,2024-05-11,5.0,350.92,Cash on Delivery,India,user530@example.com
+ORD100464,CUST6193,PROD863,Clothing,2024-05-01,2.0,300.68,UPI,,user775@example.com
+ORD100465,CUST2800,PROD189,Home,2023-12-10,5.0,115.44,,Australia,user2213@example.com
+ORD100466,CUST7857,PROD201,Beauty,2023-12-31,3.0,189.53,UPI,Canada,user4433@example.com
+ORD100467,,PROD199,Clothing,2024-05-04,,411.66,UPI,Canada,user2821@example.com
+ORD100468,CUST3209,PROD114,Clothing,2023-09-26,4.0,,Debit Card,,user1657@example.com
+ORD100469,CUST8245,PROD538,Books,2024-05-14,4.0,,Credit Card,Canada,user784@example.com
+ORD100470,CUST6514,PROD418,,2023-09-29,1.0,224.85,Wallet,Germany,
+ORD100471,CUST3509,,Books,2023-01-25,5.0,483.17,Wallet,UK,user3871@example.com
+ORD100472,,PROD286,Books,,,171.25,UPI,Canada,
+ORD100473,,PROD514,Home,2024-06-09,,370.11,Wallet,Canada,
+ORD100474,,PROD820,Electronics,2023-01-08,1.0,39.91,Cash on Delivery,USA,user4689@example.com
+ORD100475,,PROD303,Home,2023-02-22,3.0,187.52,Cash on Delivery,USA,user3796@example.com
+ORD100476,CUST7287,PROD375,Beauty,2024-12-19,3.0,427.0,Cash on Delivery,,user3475@example.com
+ORD100477,CUST9578,PROD928,Electronics,2024-08-04,4.0,125.63,Debit Card,,user82@example.com
+ORD100478,CUST6798,PROD258,Home,2024-09-10,3.0,405.63,UPI,Canada,user835@example.com
+ORD100479,CUST6941,PROD253,Clothing,2023-01-02,4.0,456.44,UPI,UK,user4138@example.com
+ORD100480,CUST2927,PROD164,Books,2023-04-21,,366.29,,India,user3104@example.com
+ORD100481,CUST2812,PROD340,,2023-01-25,3.0,151.33,Debit Card,Germany,user3743@example.com
+ORD100482,CUST4171,PROD288,Beauty,2024-01-02,5.0,450.35,Cash on Delivery,UK,
+ORD100483,CUST4048,PROD869,Beauty,,2.0,135.28,Debit Card,Australia,user1413@example.com
+ORD100484,CUST6485,PROD405,Electronics,2024-10-02,3.0,66.54,Cash on Delivery,India,user4037@example.com
+ORD100485,CUST2304,PROD637,Clothing,,5.0,61.36,,Germany,user2019@example.com
+ORD100486,CUST9957,,Clothing,2024-05-06,3.0,184.62,UPI,UK,user4192@example.com
+ORD100487,CUST6281,PROD673,Electronics,,3.0,308.17,Debit Card,Canada,user1638@example.com
+ORD100488,CUST3248,PROD481,,,2.0,34.37,,USA,user1295@example.com
+ORD100489,CUST4215,PROD811,Clothing,2024-10-05,4.0,443.17,Debit Card,India,user536@example.com
+ORD100490,CUST7731,PROD614,Sports,2024-10-13,2.0,234.09,Credit Card,Germany,user1321@example.com
+ORD100491,CUST1944,PROD997,Clothing,2023-05-24,3.0,377.09,Credit Card,Germany,user1732@example.com
+ORD100492,,PROD761,,2024-12-23,2.0,260.94,Cash on Delivery,,user3450@example.com
+ORD100493,CUST4720,PROD832,Home,2023-10-27,2.0,288.82,Wallet,,user267@example.com
+ORD100494,CUST2574,PROD422,,,4.0,300.17,Cash on Delivery,India,user3454@example.com
+ORD100495,,PROD605,Books,2023-09-10,5.0,381.58,Debit Card,UK,user4787@example.com
+ORD100496,CUST9420,PROD323,Electronics,2023-10-12,1.0,133.18,,India,user681@example.com
+ORD100497,CUST2301,PROD941,Books,2024-11-01,3.0,252.67,UPI,USA,user43@example.com
+ORD100498,CUST7550,PROD911,Clothing,2024-08-21,4.0,93.09,Wallet,UK,user3390@example.com
+ORD100499,CUST7188,PROD395,Home,2024-06-26,2.0,320.0,,USA,user3796@example.com
+ORD100500,CUST9323,,Home,2024-12-07,1.0,34.4,Wallet,Australia,
+ORD100501,CUST4549,PROD480,Sports,2024-06-25,2.0,430.15,Credit Card,UK,user3118@example.com
+ORD100502,CUST4706,PROD803,Sports,2024-07-21,5.0,60.99,Debit Card,Australia,user3144@example.com
+ORD100503,CUST1873,PROD506,Sports,,3.0,8.77,UPI,UK,user4263@example.com
+ORD100504,CUST1827,PROD763,Clothing,,,86.3,UPI,,user4844@example.com
+ORD100505,CUST4588,PROD431,Beauty,2023-07-16,5.0,176.68,UPI,Germany,user2160@example.com
+ORD100506,CUST7661,PROD164,Home,2024-05-21,5.0,231.89,UPI,USA,user2606@example.com
+ORD100507,,PROD181,Electronics,2024-06-21,4.0,344.77,Wallet,Germany,user2996@example.com
+ORD100508,CUST9476,PROD377,Books,2023-07-12,2.0,384.79,Credit Card,,user3307@example.com
+ORD100509,CUST9866,PROD848,Home,2024-02-12,2.0,236.37,UPI,Australia,user491@example.com
+ORD100510,CUST3389,PROD589,Beauty,2023-02-12,5.0,161.14,Credit Card,Germany,user1948@example.com
+ORD100511,,PROD723,Sports,2023-01-13,4.0,395.04,Credit Card,USA,
+ORD100512,CUST7785,PROD896,Electronics,2023-06-25,1.0,173.27,Credit Card,USA,user53@example.com
+ORD100513,CUST5159,PROD643,Beauty,2023-03-24,,36.6,Debit Card,Germany,
+ORD100514,CUST7600,PROD427,Clothing,2024-11-08,4.0,47.54,Cash on Delivery,Germany,user4173@example.com
+ORD100515,CUST6512,PROD740,Beauty,,3.0,96.79,Cash on Delivery,USA,user137@example.com
+ORD100516,CUST6060,PROD352,Beauty,,5.0,297.29,UPI,Australia,user2303@example.com
+ORD100517,CUST2010,PROD382,Beauty,2023-01-31,1.0,295.54,UPI,Germany,user3737@example.com
+ORD100518,CUST3509,PROD285,Beauty,,,227.42,Credit Card,Australia,user2366@example.com
+ORD100519,CUST9535,PROD749,Home,2023-10-03,5.0,183.0,,Canada,user2640@example.com
+ORD100520,CUST9778,PROD227,Sports,,5.0,451.73,Cash on Delivery,,user4157@example.com
+ORD100521,CUST2235,,Clothing,2023-03-10,5.0,153.35,Debit Card,Canada,user285@example.com
+ORD100522,CUST9921,PROD447,Clothing,2023-03-14,3.0,279.25,Debit Card,India,user1534@example.com
+ORD100523,CUST9696,PROD190,,2023-12-22,5.0,,Cash on Delivery,Canada,user4560@example.com
+ORD100524,CUST1505,PROD419,Sports,2023-04-29,4.0,487.82,,,user598@example.com
+ORD100525,,PROD579,Home,2023-07-22,5.0,333.75,Wallet,Germany,user3691@example.com
+ORD100526,CUST9365,PROD297,Beauty,,,123.19,Cash on Delivery,UK,user724@example.com
+ORD100527,CUST2249,,,2024-11-08,3.0,275.16,Debit Card,USA,user4541@example.com
+ORD100528,CUST4471,PROD222,Electronics,2024-11-29,5.0,51.93,Credit Card,USA,user3546@example.com
+ORD100529,CUST8065,PROD441,Clothing,2023-07-23,1.0,288.33,Cash on Delivery,Germany,user1637@example.com
+ORD100530,CUST7075,PROD781,Sports,,2.0,403.7,Wallet,,user714@example.com
+ORD100531,CUST4071,PROD774,Electronics,,,300.1,Debit Card,Canada,user4217@example.com
+ORD100532,CUST8513,PROD276,Home,2024-07-13,1.0,,Wallet,Australia,user3419@example.com
+ORD100533,CUST6619,PROD388,Sports,2024-02-06,2.0,46.29,UPI,Canada,user1492@example.com
+ORD100534,CUST6185,PROD506,Home,2024-07-27,3.0,,,Australia,user1805@example.com
+ORD100535,CUST7893,PROD205,Sports,2023-07-29,4.0,26.65,Wallet,Germany,user4794@example.com
+ORD100536,CUST2445,PROD776,,,4.0,120.22,Wallet,,user834@example.com
+ORD100537,CUST3937,PROD326,,2023-12-28,1.0,,Cash on Delivery,Australia,user4626@example.com
+ORD100538,CUST2352,PROD833,Home,2024-12-20,3.0,414.85,UPI,USA,user3723@example.com
+ORD100539,CUST2350,PROD741,Electronics,2023-09-12,3.0,234.0,Cash on Delivery,Canada,user438@example.com
+ORD100540,,PROD242,Clothing,2023-03-14,2.0,368.33,Debit Card,USA,user4997@example.com
+ORD100541,CUST9163,PROD347,Home,2024-12-05,4.0,351.82,UPI,India,user2514@example.com
+ORD100542,CUST9283,PROD795,Sports,,5.0,,Wallet,USA,user4104@example.com
+ORD100543,CUST6214,PROD334,Clothing,2023-08-04,3.0,424.65,Debit Card,,user4452@example.com
+ORD100544,CUST2215,PROD575,Home,2024-10-06,4.0,475.19,Cash on Delivery,UK,user2935@example.com
+ORD100545,,PROD333,Home,2023-10-08,4.0,,Credit Card,,user839@example.com
+ORD100546,,,Beauty,2024-03-17,1.0,249.31,Debit Card,India,
+ORD100547,CUST1496,PROD605,Electronics,,2.0,408.01,UPI,Germany,user512@example.com
+ORD100548,CUST3689,PROD977,Books,2023-11-04,1.0,366.71,Wallet,UK,user903@example.com
+ORD100549,CUST6062,PROD506,,2024-11-10,,119.27,,UK,user1926@example.com
+ORD100550,CUST2656,PROD779,Books,,3.0,442.38,Credit Card,Canada,user1535@example.com
+ORD100551,CUST9263,,Books,2024-01-06,5.0,312.26,Debit Card,UK,user402@example.com
+ORD100552,CUST2792,PROD523,Beauty,2024-04-08,,202.68,UPI,Australia,user4447@example.com
+ORD100553,CUST3159,PROD595,Beauty,2024-07-22,1.0,285.5,Debit Card,USA,user3349@example.com
+ORD100554,CUST6873,PROD354,Electronics,2024-04-17,3.0,465.21,Debit Card,India,user1389@example.com
+ORD100555,CUST9628,PROD354,Home,2023-06-13,5.0,76.51,Credit Card,USA,user680@example.com
+ORD100556,CUST8373,PROD832,Electronics,2023-09-23,2.0,166.52,Wallet,Canada,
+ORD100557,CUST7776,PROD221,Electronics,2024-03-19,3.0,36.26,Debit Card,Canada,user3837@example.com
+ORD100558,CUST6323,PROD264,Electronics,2024-06-24,3.0,15.64,Cash on Delivery,Australia,user2031@example.com
+ORD100559,CUST8709,PROD700,Sports,2023-09-15,5.0,471.46,Cash on Delivery,Canada,user3681@example.com
+ORD100560,CUST2561,PROD683,,2024-09-11,3.0,349.61,Credit Card,USA,user4129@example.com
+ORD100561,CUST2476,PROD841,Clothing,2024-01-24,5.0,285.43,Wallet,USA,user2224@example.com
+ORD100562,,,Home,,,48.68,Wallet,UK,user70@example.com
+ORD100563,CUST7304,PROD357,Clothing,2023-09-07,4.0,375.26,Cash on Delivery,Canada,user2906@example.com
+ORD100564,CUST9954,PROD154,Beauty,2023-01-23,2.0,319.54,UPI,UK,user1410@example.com
+ORD100565,CUST9573,PROD958,Beauty,2024-03-14,5.0,335.83,Credit Card,,
+ORD100566,CUST5684,PROD807,Beauty,2024-09-15,,416.27,UPI,,user560@example.com
+ORD100567,CUST5963,PROD330,,2023-07-09,1.0,143.69,Cash on Delivery,Australia,user481@example.com
+ORD100568,CUST2519,PROD209,Beauty,2024-08-24,5.0,418.06,Debit Card,Australia,user3804@example.com
+ORD100569,CUST2592,PROD226,Electronics,2024-06-08,2.0,442.24,Cash on Delivery,Australia,user438@example.com
+ORD100570,CUST4233,PROD105,Clothing,2024-06-01,,464.79,Credit Card,India,user871@example.com
+ORD100571,CUST1264,PROD822,Home,2023-11-12,2.0,470.09,UPI,UK,user889@example.com
+ORD100572,,,Sports,,2.0,338.89,UPI,USA,
+ORD100573,CUST6418,PROD823,Sports,2023-11-16,,45.05,UPI,India,user4204@example.com
+ORD100574,CUST7310,,Home,2024-09-06,3.0,440.18,Credit Card,,user669@example.com
+ORD100575,CUST3336,PROD741,Sports,2024-02-27,3.0,232.01,Debit Card,UK,user4588@example.com
+ORD100576,CUST8204,PROD622,Beauty,2023-10-10,5.0,340.34,UPI,Canada,user566@example.com
+ORD100577,CUST2328,PROD898,Clothing,2024-08-22,5.0,246.94,Credit Card,India,user4694@example.com
+ORD100578,CUST9830,PROD260,,2024-10-12,3.0,368.2,UPI,USA,user1453@example.com
+ORD100579,CUST4947,PROD420,Sports,2023-05-30,4.0,243.27,Credit Card,,user2182@example.com
+ORD100580,CUST3904,PROD421,Clothing,2024-09-25,3.0,461.19,UPI,India,user341@example.com
+ORD100581,CUST7860,PROD154,Clothing,,4.0,327.8,Credit Card,Canada,user3873@example.com
+ORD100582,CUST9807,PROD947,Electronics,2023-04-30,4.0,375.83,Credit Card,,user2300@example.com
+ORD100583,,PROD440,Clothing,2023-02-27,5.0,385.56,Credit Card,Australia,user4606@example.com
+ORD100584,CUST5596,PROD552,Home,2024-09-21,5.0,343.0,Credit Card,,user3937@example.com
+ORD100585,CUST4032,PROD988,Home,,3.0,495.56,Cash on Delivery,,user3841@example.com
+ORD100586,CUST5374,,Books,2023-08-13,1.0,406.57,,Canada,
+ORD100587,CUST3985,,Clothing,2023-08-11,,,UPI,UK,user1132@example.com
+ORD100588,CUST5679,PROD265,Electronics,2024-05-08,,418.77,Credit Card,Australia,user995@example.com
+ORD100589,,PROD834,Clothing,2023-09-24,5.0,311.03,Debit Card,USA,user3525@example.com
+ORD100590,,PROD659,Electronics,2023-12-27,2.0,125.11,Wallet,UK,user788@example.com
+ORD100591,CUST4770,PROD352,Books,2023-03-14,2.0,371.42,Cash on Delivery,,user1678@example.com
+ORD100592,CUST7419,PROD553,Sports,2023-02-26,2.0,389.65,,Australia,
+ORD100593,CUST5393,PROD252,Sports,2023-11-15,5.0,202.88,Cash on Delivery,Australia,
+ORD100594,CUST6163,,Books,2023-10-06,2.0,198.99,Wallet,India,
+ORD100595,CUST3746,PROD667,Sports,2024-06-22,,130.41,Credit Card,USA,user2735@example.com
+ORD100596,CUST9529,PROD868,Home,2023-10-21,1.0,138.7,Credit Card,Germany,user2661@example.com
+ORD100597,CUST7526,PROD541,Books,2023-03-12,1.0,66.68,UPI,India,user3095@example.com
+ORD100598,CUST6120,PROD554,Clothing,2024-09-27,3.0,497.26,UPI,India,user1448@example.com
+ORD100599,,PROD401,Home,2024-09-03,2.0,270.04,Cash on Delivery,Australia,user1866@example.com
+ORD100600,CUST8575,PROD802,Sports,2023-06-09,5.0,59.39,Credit Card,Australia,
+ORD100601,CUST9888,PROD444,,2023-03-03,2.0,251.13,UPI,USA,user1279@example.com
+ORD100602,CUST1620,PROD421,Books,2023-09-21,4.0,360.72,UPI,Germany,user4898@example.com
+ORD100603,CUST1564,PROD252,Home,2024-06-23,3.0,221.69,UPI,Australia,user295@example.com
+ORD100604,CUST2944,PROD840,Electronics,2024-05-14,1.0,498.59,Wallet,Germany,user4202@example.com
+ORD100605,CUST7868,PROD201,Clothing,2023-08-10,3.0,323.86,,India,
+ORD100606,CUST3203,PROD792,Home,2024-06-25,4.0,219.38,Credit Card,India,user3698@example.com
+ORD100607,CUST4701,PROD707,Sports,2024-07-29,2.0,139.83,Wallet,USA,user1370@example.com
+ORD100608,CUST4111,PROD921,Home,2024-06-26,1.0,77.44,UPI,USA,
+ORD100609,CUST4212,PROD992,Sports,2024-10-26,,191.32,Debit Card,USA,user261@example.com
+ORD100610,CUST1431,PROD257,Beauty,2023-03-11,3.0,,Cash on Delivery,India,user4168@example.com
+ORD100611,CUST1734,PROD565,Home,,1.0,491.21,Cash on Delivery,USA,user896@example.com
+ORD100612,CUST9759,PROD211,,2023-10-20,2.0,,Cash on Delivery,UK,user45@example.com
+ORD100613,CUST2102,PROD577,Sports,2024-03-03,,347.7,Cash on Delivery,Canada,user2544@example.com
+ORD100614,,PROD386,Books,2024-07-06,1.0,43.74,UPI,India,user614@example.com
+ORD100615,CUST3429,PROD259,Electronics,2024-07-20,2.0,397.37,Cash on Delivery,Germany,user122@example.com
+ORD100616,CUST6232,PROD842,Books,2023-01-18,1.0,87.45,Cash on Delivery,,user2698@example.com
+ORD100617,,PROD418,Electronics,2023-07-17,5.0,112.22,Cash on Delivery,UK,user2361@example.com
+ORD100618,CUST2316,PROD780,,2023-09-30,,213.59,Cash on Delivery,Australia,user830@example.com
+ORD100619,CUST8387,PROD443,Electronics,,1.0,,Wallet,UK,user4100@example.com
+ORD100620,CUST8176,PROD801,Clothing,2024-03-10,1.0,332.17,,USA,user1180@example.com
+ORD100621,CUST3393,PROD645,Sports,2024-04-27,,384.86,Credit Card,Germany,user4323@example.com
+ORD100622,,PROD344,Beauty,2023-06-29,3.0,233.75,Cash on Delivery,UK,user4377@example.com
+ORD100623,CUST6117,PROD390,Electronics,,3.0,456.21,,UK,user4762@example.com
+ORD100624,,PROD317,Sports,2024-02-10,1.0,,,India,
+ORD100625,CUST1820,PROD188,Books,2024-12-10,1.0,477.77,,Canada,user1110@example.com
+ORD100626,CUST6505,PROD556,Clothing,2024-01-12,4.0,407.96,Debit Card,Canada,user4290@example.com
+ORD100627,CUST7412,PROD894,Beauty,2023-04-18,4.0,273.98,Debit Card,USA,
+ORD100628,CUST7266,PROD852,Books,2024-06-16,,347.41,Debit Card,Germany,
+ORD100629,CUST7864,PROD471,Books,2024-06-04,,312.55,Credit Card,,user1576@example.com
+ORD100630,CUST9247,PROD133,Sports,2023-03-16,1.0,22.27,UPI,UK,user3801@example.com
+ORD100631,CUST1551,PROD758,Home,2023-08-22,1.0,146.05,UPI,Australia,user920@example.com
+ORD100632,CUST5970,PROD119,Beauty,2024-06-11,3.0,133.83,Wallet,Germany,
+ORD100633,CUST5078,PROD940,Home,2023-08-29,,364.23,Wallet,USA,user94@example.com
+ORD100634,,PROD351,Clothing,2023-02-06,2.0,239.2,Wallet,Germany,user4933@example.com
+ORD100635,CUST1025,PROD934,Home,2023-12-11,4.0,,Credit Card,Germany,user3585@example.com
+ORD100636,CUST4022,PROD382,Books,2024-07-14,4.0,243.57,Wallet,India,user3215@example.com
+ORD100637,,PROD412,Books,2023-09-11,5.0,397.07,Credit Card,Australia,user4733@example.com
+ORD100638,CUST7648,PROD503,Sports,2023-12-03,4.0,148.58,Cash on Delivery,,user1922@example.com
+ORD100639,CUST4376,,Electronics,2024-10-26,4.0,386.39,,,user3306@example.com
+ORD100640,CUST9318,PROD445,Electronics,2024-11-12,4.0,310.49,UPI,India,user712@example.com
+ORD100641,CUST1074,PROD210,Books,2023-12-13,1.0,138.7,Debit Card,USA,user974@example.com
+ORD100642,CUST6591,PROD439,Books,2024-10-14,1.0,402.37,Wallet,Australia,user3458@example.com
+ORD100643,CUST1867,PROD723,Beauty,2024-12-03,,265.89,UPI,Canada,user1250@example.com
+ORD100644,CUST8135,PROD899,Clothing,2024-03-20,4.0,65.77,Wallet,Australia,user570@example.com
+ORD100645,CUST8444,PROD495,Beauty,2024-03-01,5.0,107.45,UPI,Australia,user865@example.com
+ORD100646,CUST1820,PROD691,Books,2024-01-16,1.0,493.95,UPI,India,user1974@example.com
+ORD100647,CUST4979,PROD372,Sports,2023-05-07,5.0,53.56,,Australia,user4869@example.com
+ORD100648,CUST4098,PROD835,Beauty,2023-12-10,,271.37,Cash on Delivery,India,user3317@example.com
+ORD100649,CUST1146,PROD817,Electronics,2024-09-28,,213.55,UPI,India,user961@example.com
+ORD100650,CUST8678,PROD364,Beauty,2023-04-14,2.0,93.41,Wallet,India,user4964@example.com
+ORD100651,,PROD456,Clothing,2023-11-30,4.0,12.69,UPI,UK,user606@example.com
+ORD100652,,,Electronics,2024-07-31,1.0,,UPI,USA,user51@example.com
+ORD100653,CUST5088,PROD765,Clothing,,5.0,425.48,Wallet,USA,
+ORD100654,CUST4107,PROD461,Home,2024-09-12,4.0,,UPI,UK,
+ORD100655,CUST2089,,Home,2023-06-14,3.0,78.36,UPI,Australia,user2692@example.com
+ORD100656,CUST9625,PROD914,Clothing,2024-08-06,3.0,222.51,Debit Card,Germany,user3286@example.com
+ORD100657,CUST8485,PROD554,Home,2024-06-12,1.0,470.18,Debit Card,,user2505@example.com
+ORD100658,CUST8379,PROD997,Home,,2.0,88.32,Credit Card,UK,user3835@example.com
+ORD100659,,,Electronics,2024-01-25,2.0,219.61,UPI,India,user3616@example.com
+ORD100660,,PROD706,Sports,,3.0,101.76,Debit Card,Canada,user2114@example.com
+ORD100661,CUST5025,PROD754,Sports,2024-01-20,1.0,326.67,UPI,Australia,user3028@example.com
+ORD100662,CUST9828,PROD655,,2023-02-04,3.0,327.78,Debit Card,Australia,user136@example.com
+ORD100663,CUST8111,PROD824,Beauty,2024-05-22,5.0,133.63,Credit Card,UK,user1417@example.com
+ORD100664,CUST1421,PROD357,Home,2023-10-15,,368.93,Debit Card,Canada,user2104@example.com
+ORD100665,CUST4684,PROD356,,2024-02-05,4.0,425.94,Wallet,Germany,user1274@example.com
+ORD100666,,PROD996,Home,2024-11-30,4.0,274.39,Debit Card,Australia,user2183@example.com
+ORD100667,CUST8399,,Clothing,2023-08-19,1.0,209.14,Wallet,Germany,user1847@example.com
+ORD100668,CUST7711,PROD589,Beauty,2024-08-31,4.0,,UPI,,user205@example.com
+ORD100669,CUST9177,PROD335,Beauty,2024-02-08,5.0,228.95,Credit Card,India,user3826@example.com
+ORD100670,CUST6361,,Books,2023-05-22,1.0,427.96,UPI,Canada,user4614@example.com
+ORD100671,,PROD239,Clothing,2023-08-01,4.0,318.0,Credit Card,Canada,user215@example.com
+ORD100672,CUST1562,PROD185,Sports,2024-01-14,1.0,451.64,UPI,USA,
+ORD100673,CUST6951,PROD292,Home,2024-02-19,4.0,387.25,UPI,Australia,user4007@example.com
+ORD100674,CUST1246,PROD486,Books,2023-06-11,4.0,34.15,Cash on Delivery,Germany,user4070@example.com
+ORD100675,CUST7444,PROD552,Electronics,2023-12-21,2.0,,Wallet,UK,user2336@example.com
+ORD100676,CUST6500,PROD372,Home,2024-02-14,5.0,447.57,UPI,,user4350@example.com
+ORD100677,CUST8868,PROD414,Beauty,2024-05-29,4.0,148.14,,UK,user3064@example.com
+ORD100678,CUST5621,PROD581,Electronics,2024-07-16,,234.18,UPI,USA,user2332@example.com
+ORD100679,CUST3597,PROD870,Home,2024-11-16,3.0,109.33,Debit Card,,user701@example.com
+ORD100680,CUST5109,,Sports,2023-06-06,3.0,155.41,Debit Card,USA,user323@example.com
+ORD100681,CUST3343,PROD787,Books,2024-08-08,5.0,98.52,Wallet,India,user3025@example.com
+ORD100682,CUST5689,PROD512,Home,,,248.32,Credit Card,Germany,user3602@example.com
+ORD100683,CUST8564,PROD422,,,1.0,266.09,Debit Card,USA,user2975@example.com
+ORD100684,CUST4741,PROD248,Electronics,,4.0,351.33,Wallet,India,user4326@example.com
+ORD100685,CUST5332,PROD750,Electronics,2024-07-05,5.0,443.15,Wallet,,user3181@example.com
+ORD100686,CUST7146,PROD737,Clothing,2023-03-24,4.0,,UPI,USA,user1613@example.com
+ORD100687,CUST8415,,Beauty,2023-06-09,1.0,494.5,Cash on Delivery,Germany,user655@example.com
+ORD100688,CUST8661,PROD856,Home,2024-09-04,4.0,95.43,UPI,USA,user2751@example.com
+ORD100689,CUST5475,PROD738,Home,2024-09-28,4.0,19.8,Debit Card,UK,user488@example.com
+ORD100690,CUST6361,PROD589,Electronics,2024-03-19,2.0,421.06,Cash on Delivery,UK,user210@example.com
+ORD100691,CUST3134,PROD470,Beauty,2024-05-04,3.0,443.6,Cash on Delivery,USA,user4750@example.com
+ORD100692,CUST6731,PROD800,Beauty,2024-03-06,1.0,,Cash on Delivery,Germany,user2251@example.com
+ORD100693,CUST1525,PROD523,Sports,2024-04-04,5.0,109.74,Cash on Delivery,USA,user230@example.com
+ORD100694,,PROD371,Home,2023-01-17,2.0,336.07,Cash on Delivery,UK,user282@example.com
+ORD100695,CUST8540,PROD761,Clothing,2024-09-23,4.0,,UPI,USA,user2664@example.com
+ORD100696,CUST2891,PROD918,Sports,2024-08-30,3.0,71.15,Cash on Delivery,Canada,
+ORD100697,CUST5296,PROD102,Books,2024-12-19,,199.69,Wallet,USA,user2161@example.com
+ORD100698,CUST9973,PROD591,Books,2023-09-07,5.0,485.29,,,user1801@example.com
+ORD100699,CUST8842,PROD573,Sports,2023-10-21,3.0,119.65,Debit Card,Germany,user2394@example.com
+ORD100700,CUST4797,PROD598,Clothing,,4.0,31.08,Cash on Delivery,Germany,
+ORD100701,CUST3710,PROD815,Sports,2023-09-06,3.0,359.91,UPI,India,
+ORD100702,CUST4973,PROD439,Books,2024-04-28,3.0,196.75,Cash on Delivery,India,
+ORD100703,CUST2325,PROD860,Electronics,2023-09-11,5.0,64.66,UPI,Germany,user1982@example.com
+ORD100704,CUST5245,PROD608,Home,2024-07-05,1.0,104.61,UPI,USA,user1941@example.com
+ORD100705,CUST1900,PROD825,Sports,2024-04-16,4.0,109.32,Wallet,Canada,user3026@example.com
+ORD100706,CUST3305,PROD842,Books,2023-03-16,5.0,,UPI,Australia,user2431@example.com
+ORD100707,CUST2723,PROD776,Clothing,,5.0,382.55,UPI,USA,user1201@example.com
+ORD100708,CUST1881,PROD967,,2023-01-22,5.0,230.01,Debit Card,Australia,user1264@example.com
+ORD100709,CUST9129,PROD723,Clothing,2024-05-25,5.0,168.29,Credit Card,Canada,user1222@example.com
+ORD100710,CUST4768,PROD239,Books,2023-10-14,4.0,94.05,Cash on Delivery,Australia,user4943@example.com
+ORD100711,,PROD702,Sports,2024-11-21,,257.05,Wallet,Australia,user1936@example.com
+ORD100712,CUST6826,PROD610,Books,,2.0,409.34,Wallet,Canada,user1166@example.com
+ORD100713,CUST2771,,Sports,2024-10-07,1.0,425.07,UPI,Germany,user1912@example.com
+ORD100714,CUST3826,PROD936,Electronics,2023-11-24,,,Credit Card,Australia,
+ORD100715,CUST7831,PROD440,,,1.0,203.29,,Australia,user3085@example.com
+ORD100716,CUST9489,PROD114,Sports,2023-03-28,1.0,,UPI,Australia,user1061@example.com
+ORD100717,CUST8053,PROD518,Electronics,2024-06-14,1.0,17.13,Credit Card,UK,user3597@example.com
+ORD100718,CUST9110,PROD548,Electronics,2023-04-23,4.0,450.14,Debit Card,USA,user4196@example.com
+ORD100719,CUST3945,PROD335,Electronics,2024-08-21,1.0,224.08,Debit Card,Australia,user2591@example.com
+ORD100720,CUST1146,PROD537,Home,2023-06-21,5.0,268.94,,Australia,user3208@example.com
+ORD100721,CUST1269,PROD970,Home,2024-03-01,3.0,192.42,,Germany,user4072@example.com
+ORD100722,CUST1277,PROD877,Sports,2023-12-10,,,UPI,Australia,user2367@example.com
+ORD100723,CUST9921,PROD421,,2024-12-14,3.0,433.51,UPI,USA,user3185@example.com
+ORD100724,CUST4642,PROD933,Books,2023-07-03,1.0,429.6,Credit Card,India,user4001@example.com
+ORD100725,CUST9884,PROD122,Books,2023-04-04,1.0,69.72,Cash on Delivery,UK,user1105@example.com
+ORD100726,CUST7324,PROD675,Beauty,2023-02-10,4.0,298.11,,UK,user2662@example.com
+ORD100727,CUST6175,PROD414,Clothing,2024-04-13,3.0,393.8,Cash on Delivery,UK,user3062@example.com
+ORD100728,CUST5290,PROD233,Electronics,2024-11-20,4.0,154.24,Wallet,Canada,user95@example.com
+ORD100729,CUST8858,PROD778,Beauty,2024-05-17,2.0,126.49,Credit Card,Germany,user4966@example.com
+ORD100730,CUST3421,PROD184,Beauty,2024-04-25,5.0,391.25,Cash on Delivery,,user4829@example.com
+ORD100731,CUST6780,PROD129,Electronics,2024-08-21,3.0,219.37,Debit Card,Germany,user19@example.com
+ORD100732,CUST8283,PROD523,Clothing,2023-09-28,3.0,195.16,UPI,USA,user848@example.com
+ORD100733,CUST5646,PROD524,Books,2023-04-25,2.0,369.75,Cash on Delivery,India,user1359@example.com
+ORD100734,CUST9920,PROD219,,2023-04-21,1.0,358.3,UPI,Australia,user1266@example.com
+ORD100735,CUST9208,PROD384,Electronics,2024-12-22,4.0,190.37,Wallet,USA,user2102@example.com
+ORD100736,,PROD752,Sports,2023-11-15,5.0,178.04,Debit Card,UK,user951@example.com
+ORD100737,CUST7579,PROD333,Books,2023-12-13,2.0,244.64,Wallet,UK,user3038@example.com
+ORD100738,CUST2148,PROD104,Home,2024-06-16,4.0,446.18,UPI,Australia,user4408@example.com
+ORD100739,CUST7917,PROD847,Sports,,1.0,22.01,Debit Card,Australia,user1443@example.com
+ORD100740,CUST9944,PROD302,Beauty,2024-12-03,2.0,207.43,Debit Card,Germany,user1647@example.com
+ORD100741,CUST9257,PROD932,Home,2023-12-17,3.0,392.16,UPI,Canada,user4287@example.com
+ORD100742,CUST5394,PROD607,Beauty,2024-06-03,2.0,439.66,Wallet,Canada,user4723@example.com
+ORD100743,CUST6966,PROD896,Clothing,2024-07-07,1.0,310.01,Cash on Delivery,India,user2367@example.com
+ORD100744,CUST3405,,,2024-03-25,1.0,182.2,Wallet,India,user1539@example.com
+ORD100745,CUST4645,PROD699,Electronics,2023-02-13,2.0,137.38,Cash on Delivery,USA,user496@example.com
+ORD100746,CUST9510,PROD777,Electronics,2023-10-04,5.0,417.34,Credit Card,Canada,user2248@example.com
+ORD100747,CUST8540,PROD715,Home,2024-03-04,5.0,95.25,Cash on Delivery,UK,user523@example.com
+ORD100748,CUST4842,PROD390,Beauty,2024-04-08,5.0,344.35,Cash on Delivery,Australia,user91@example.com
+ORD100749,CUST1229,PROD751,Clothing,2024-04-18,3.0,401.34,Debit Card,UK,user3627@example.com
+ORD100750,CUST6540,PROD770,Beauty,2023-12-05,1.0,,Debit Card,USA,user3080@example.com
+ORD100751,CUST5047,PROD881,Electronics,2023-10-26,4.0,401.37,,Germany,user4588@example.com
+ORD100752,CUST5490,,Clothing,2023-07-01,2.0,59.78,,Australia,user2024@example.com
+ORD100753,CUST9398,PROD734,Beauty,2023-02-08,1.0,251.66,Wallet,Canada,user4778@example.com
+ORD100754,CUST8207,PROD800,Sports,2023-08-30,1.0,371.87,Credit Card,Australia,user3155@example.com
+ORD100755,CUST1776,PROD696,Books,2023-12-20,2.0,379.17,Credit Card,Australia,
+ORD100756,CUST8746,PROD498,Books,2024-11-12,4.0,438.4,Cash on Delivery,USA,user1533@example.com
+ORD100757,CUST8280,PROD148,Books,2024-11-05,4.0,398.66,Debit Card,UK,user4257@example.com
+ORD100758,,PROD820,Books,2024-10-27,5.0,,Wallet,Germany,user1766@example.com
+ORD100759,CUST8957,PROD411,Books,2024-01-10,4.0,45.96,Cash on Delivery,Canada,user3804@example.com
+ORD100760,CUST9595,PROD351,Sports,2024-03-24,2.0,450.04,Debit Card,India,user235@example.com
+ORD100761,CUST9519,PROD163,Sports,2023-07-01,2.0,425.01,UPI,Germany,user4552@example.com
+ORD100762,,PROD177,Sports,2023-03-20,5.0,259.11,Cash on Delivery,UK,user4196@example.com
+ORD100763,CUST3558,PROD749,Clothing,2023-05-11,2.0,324.31,,India,user4366@example.com
+ORD100764,,PROD100,Sports,2024-12-09,2.0,34.32,Cash on Delivery,Australia,user3630@example.com
+ORD100765,CUST9251,PROD156,Electronics,2024-11-24,1.0,399.71,Cash on Delivery,Canada,user1298@example.com
+ORD100766,CUST7568,PROD947,Beauty,2024-11-10,5.0,,Wallet,Australia,user3062@example.com
+ORD100767,CUST9693,PROD675,Home,2024-03-08,4.0,392.96,Credit Card,India,user4203@example.com
+ORD100768,CUST5304,PROD235,Beauty,2024-02-11,5.0,335.25,UPI,USA,user4245@example.com
+ORD100769,CUST8438,PROD171,Electronics,,3.0,319.04,Cash on Delivery,India,
+ORD100770,CUST1625,PROD175,,2024-12-31,1.0,262.71,UPI,,user1937@example.com
+ORD100771,,PROD929,Beauty,2023-01-23,3.0,260.55,Debit Card,Australia,user3802@example.com
+ORD100772,CUST2945,PROD545,Home,2023-06-17,3.0,,Credit Card,Australia,user1691@example.com
+ORD100773,,PROD947,Home,2023-04-11,,202.53,Cash on Delivery,,user3673@example.com
+ORD100774,CUST7878,PROD401,Beauty,2023-12-03,3.0,139.58,Cash on Delivery,Germany,user550@example.com
+ORD100775,CUST1342,PROD136,Home,2023-10-31,2.0,222.64,Cash on Delivery,Canada,user4729@example.com
+ORD100776,CUST8941,PROD603,Sports,2024-06-15,1.0,92.24,Wallet,India,user3793@example.com
+ORD100777,CUST6413,PROD675,Books,2023-10-28,4.0,374.03,Wallet,USA,user2245@example.com
+ORD100778,CUST5982,PROD608,Electronics,2024-12-30,3.0,401.58,,USA,user2169@example.com
+ORD100779,CUST9353,PROD767,Beauty,2023-10-21,3.0,189.31,Debit Card,Canada,user3859@example.com
+ORD100780,CUST8579,PROD347,Clothing,2024-04-21,5.0,55.98,Cash on Delivery,Canada,user1332@example.com
+ORD100781,CUST8391,PROD310,Electronics,2023-11-17,3.0,128.0,Cash on Delivery,India,user2026@example.com
+ORD100782,CUST7090,PROD501,Books,2024-03-19,3.0,336.72,Credit Card,USA,user3225@example.com
+ORD100783,CUST2185,PROD792,Clothing,2024-07-29,3.0,469.52,Credit Card,Australia,user4912@example.com
+ORD100784,CUST4260,PROD310,Home,2023-10-22,2.0,104.12,UPI,USA,user2463@example.com
+ORD100785,,PROD860,,,4.0,241.78,Cash on Delivery,Australia,user1973@example.com
+ORD100786,CUST8505,,Clothing,,1.0,268.27,Wallet,Australia,user768@example.com
+ORD100787,CUST3251,PROD781,Home,,,71.13,Debit Card,UK,user219@example.com
+ORD100788,CUST5469,PROD605,Electronics,2024-06-19,3.0,228.51,Cash on Delivery,Australia,user4396@example.com
+ORD100789,,PROD557,Sports,2024-12-18,,103.55,,Canada,user3783@example.com
+ORD100790,CUST9530,,Home,2023-03-29,2.0,319.04,Wallet,Australia,user4844@example.com
+ORD100791,CUST7265,,,2023-03-30,3.0,280.48,Debit Card,Germany,user1515@example.com
+ORD100792,CUST1351,PROD667,,2024-01-15,5.0,63.94,Cash on Delivery,USA,user1006@example.com
+ORD100793,CUST2606,PROD713,,2024-07-12,1.0,40.43,Debit Card,India,user4129@example.com
+ORD100794,CUST1363,PROD920,,2023-02-03,3.0,136.35,UPI,USA,user2172@example.com
+ORD100795,,PROD969,Home,2024-06-03,3.0,280.82,Wallet,Australia,user2478@example.com
+ORD100796,,PROD918,,2024-02-23,,176.78,Credit Card,USA,user4322@example.com
+ORD100797,CUST1400,PROD991,Sports,2023-03-29,2.0,486.74,UPI,Germany,user1105@example.com
+ORD100798,CUST6120,PROD721,Books,2024-02-13,5.0,337.07,Debit Card,Australia,user3798@example.com
+ORD100799,CUST8981,PROD244,Sports,2024-09-05,,38.83,Credit Card,India,user1924@example.com
+ORD100800,CUST3955,,Clothing,2023-04-21,5.0,106.61,Credit Card,USA,user4572@example.com
+ORD100801,,PROD705,Sports,2023-06-23,2.0,,Credit Card,India,user3098@example.com
+ORD100802,,PROD627,Electronics,2024-09-30,2.0,267.87,UPI,India,user1934@example.com
+ORD100803,CUST1419,PROD625,Sports,2023-07-06,2.0,143.35,Debit Card,Australia,user4488@example.com
+ORD100804,CUST8214,PROD310,Electronics,,1.0,11.06,Credit Card,Australia,user1359@example.com
+ORD100805,CUST3706,PROD191,Electronics,2023-07-23,,359.88,Credit Card,India,user4594@example.com
+ORD100806,CUST2787,PROD724,Beauty,,2.0,270.34,UPI,,user4959@example.com
+ORD100807,CUST3007,PROD210,Sports,2023-12-27,2.0,454.54,Debit Card,Germany,user1748@example.com
+ORD100808,CUST8091,,Clothing,2024-02-17,5.0,237.74,Cash on Delivery,Germany,user1998@example.com
+ORD100809,CUST4347,PROD209,Home,2024-11-05,2.0,102.97,Wallet,Germany,user4916@example.com
+ORD100810,CUST5088,PROD794,Home,2024-07-17,1.0,9.18,Credit Card,India,user452@example.com
+ORD100811,CUST9719,PROD821,Books,2023-03-10,,268.7,Credit Card,UK,user4484@example.com
+ORD100812,CUST8557,PROD224,Home,2024-02-23,5.0,,Cash on Delivery,Canada,user3702@example.com
+ORD100813,CUST5179,PROD922,,2024-06-15,4.0,37.84,,Canada,user4761@example.com
+ORD100814,CUST8621,PROD244,Clothing,2024-02-03,4.0,21.35,UPI,India,user1944@example.com
+ORD100815,,PROD222,,2024-10-03,1.0,188.86,Wallet,Australia,user1289@example.com
+ORD100816,CUST7275,PROD469,,2023-02-12,4.0,409.3,Credit Card,India,
+ORD100817,CUST4965,PROD899,Sports,2024-04-09,2.0,,Wallet,India,user2894@example.com
+ORD100818,CUST9002,,Home,,5.0,398.3,Wallet,India,user409@example.com
+ORD100819,CUST8741,PROD539,Electronics,2024-02-25,5.0,403.32,Wallet,USA,user3005@example.com
+ORD100820,CUST7159,PROD230,Electronics,2023-04-15,4.0,180.26,UPI,Canada,user339@example.com
+ORD100821,,PROD526,Books,2023-05-30,3.0,215.04,UPI,USA,user65@example.com
+ORD100822,CUST3598,PROD821,,2024-03-18,5.0,113.48,Credit Card,Australia,user4917@example.com
+ORD100823,CUST8971,PROD137,Sports,2023-03-01,5.0,144.61,UPI,USA,user3288@example.com
+ORD100824,,PROD614,Home,2024-05-13,4.0,493.3,UPI,India,user4981@example.com
+ORD100825,CUST3419,PROD775,Electronics,2023-04-25,5.0,139.48,Debit Card,Canada,user2900@example.com
+ORD100826,,PROD996,Sports,2023-08-29,1.0,19.42,Debit Card,India,user3560@example.com
+ORD100827,CUST3412,PROD940,Sports,2023-02-03,4.0,102.9,UPI,Germany,user3179@example.com
+ORD100828,CUST3679,PROD283,Clothing,2023-11-10,4.0,384.66,UPI,Canada,
+ORD100829,CUST7734,PROD430,Books,2023-06-16,3.0,,Cash on Delivery,Canada,
+ORD100830,CUST3888,,Home,2023-12-15,2.0,165.4,Cash on Delivery,India,user3778@example.com
+ORD100831,CUST4884,PROD625,Beauty,2024-03-11,4.0,364.28,Credit Card,Australia,user4330@example.com
+ORD100832,CUST7888,PROD813,Electronics,2023-08-11,1.0,175.76,Debit Card,India,user2765@example.com
+ORD100833,CUST7776,PROD899,Electronics,2023-09-22,5.0,259.69,Debit Card,USA,user2838@example.com
+ORD100834,CUST8925,PROD937,Sports,2024-01-09,,177.99,Credit Card,,user4760@example.com
+ORD100835,CUST2201,PROD216,Beauty,2024-05-07,,100.76,Wallet,Germany,user307@example.com
+ORD100836,CUST6477,PROD839,Clothing,,4.0,364.25,UPI,Australia,user1351@example.com
+ORD100837,CUST2471,PROD934,Electronics,2023-01-03,4.0,,UPI,USA,user3586@example.com
+ORD100838,CUST3126,PROD665,Sports,,4.0,357.55,UPI,Germany,user245@example.com
+ORD100839,CUST4496,PROD994,Electronics,2024-02-10,3.0,432.79,Wallet,,user2239@example.com
+ORD100840,CUST8655,PROD298,Electronics,2024-12-14,1.0,,UPI,UK,user2191@example.com
+ORD100841,CUST6224,,Clothing,2023-03-12,,,Cash on Delivery,,user4097@example.com
+ORD100842,CUST9863,PROD424,Home,2024-01-31,4.0,333.19,Wallet,Canada,user4447@example.com
+ORD100843,CUST3811,PROD313,Books,2024-04-17,2.0,226.33,Debit Card,Germany,user102@example.com
+ORD100844,CUST3472,PROD918,Home,,1.0,268.64,,Australia,user706@example.com
+ORD100845,CUST6272,PROD714,Books,2023-08-09,5.0,,Cash on Delivery,UK,user1319@example.com
+ORD100846,CUST2597,PROD500,Electronics,2024-05-30,5.0,101.63,Debit Card,Canada,
+ORD100847,CUST2878,,Books,2023-04-21,3.0,159.47,UPI,Germany,user3824@example.com
+ORD100848,CUST1544,PROD846,Sports,2024-01-28,5.0,200.98,Credit Card,UK,user4457@example.com
+ORD100849,CUST8563,PROD858,Electronics,2023-04-15,,351.74,Debit Card,UK,user1957@example.com
+ORD100850,CUST3531,PROD640,Clothing,,3.0,125.55,Wallet,UK,user1530@example.com
+ORD100851,CUST6408,PROD806,,2023-07-27,5.0,,Cash on Delivery,USA,user1065@example.com
+ORD100852,CUST3570,PROD327,Books,2023-10-30,4.0,93.61,Credit Card,Germany,user183@example.com
+ORD100853,CUST7767,PROD677,Electronics,2023-09-17,2.0,449.31,Credit Card,Canada,
+ORD100854,CUST1482,PROD724,Electronics,2024-01-12,,280.19,UPI,Canada,user2228@example.com
+ORD100855,CUST4422,PROD947,Beauty,2024-07-08,2.0,277.39,Credit Card,Germany,user2198@example.com
+ORD100856,CUST2824,PROD826,Books,2024-03-21,5.0,61.99,Cash on Delivery,USA,user3607@example.com
+ORD100857,CUST9434,PROD372,Beauty,2024-05-13,2.0,428.96,Wallet,,user4159@example.com
+ORD100858,CUST3551,,Sports,2024-05-24,4.0,135.3,Credit Card,India,user4681@example.com
+ORD100859,CUST1192,PROD646,Sports,2024-11-14,,94.42,Credit Card,Australia,user3012@example.com
+ORD100860,CUST2539,,Beauty,2023-06-18,3.0,124.57,,UK,user1782@example.com
+ORD100861,CUST3845,PROD537,Sports,2023-03-08,5.0,137.17,Debit Card,Germany,user1934@example.com
+ORD100862,CUST4845,PROD129,Books,2024-03-13,3.0,420.4,,Germany,user476@example.com
+ORD100863,,PROD189,Electronics,2023-09-16,1.0,481.59,Debit Card,UK,
+ORD100864,CUST6025,PROD410,Books,2024-03-25,4.0,263.05,UPI,Canada,user2372@example.com
+ORD100865,CUST9578,PROD888,Books,2023-06-21,1.0,343.16,Wallet,Germany,user1760@example.com
+ORD100866,CUST8107,PROD621,Electronics,,3.0,467.26,Credit Card,Australia,user1293@example.com
+ORD100867,CUST7708,,Sports,2023-12-30,1.0,498.27,Debit Card,India,user1888@example.com
+ORD100868,CUST8250,,Clothing,2023-08-09,,426.08,Wallet,India,user2771@example.com
+ORD100869,CUST7598,PROD443,Beauty,2024-02-07,2.0,304.0,Cash on Delivery,USA,user1198@example.com
+ORD100870,CUST6609,PROD315,Beauty,2023-03-09,1.0,317.77,UPI,Australia,user3343@example.com
+ORD100871,CUST8394,PROD302,Beauty,2023-11-13,2.0,,Credit Card,Canada,user698@example.com
+ORD100872,CUST7653,PROD858,Beauty,2023-05-24,5.0,400.31,Wallet,,user2873@example.com
+ORD100873,CUST9578,PROD953,Clothing,2023-09-11,1.0,72.72,Cash on Delivery,Canada,user2870@example.com
+ORD100874,CUST2193,PROD221,Electronics,2024-11-24,3.0,491.75,Debit Card,India,user2164@example.com
+ORD100875,CUST7989,,Sports,2024-03-19,,196.73,Wallet,India,user4953@example.com
+ORD100876,CUST5194,PROD137,,,1.0,450.41,Debit Card,UK,user2936@example.com
+ORD100877,CUST2041,PROD333,Home,2024-01-29,,153.24,Cash on Delivery,Australia,user3199@example.com
+ORD100878,CUST4520,PROD700,Clothing,2024-04-20,2.0,282.4,Credit Card,Germany,
+ORD100879,CUST9066,PROD748,,2024-10-14,1.0,234.13,Credit Card,USA,user3047@example.com
+ORD100880,CUST5845,PROD876,Clothing,2023-07-06,1.0,182.97,UPI,Germany,user3176@example.com
+ORD100881,CUST5618,PROD953,Books,2023-04-28,1.0,295.72,,Germany,user4700@example.com
+ORD100882,CUST1324,PROD745,Sports,2023-07-04,2.0,297.0,Debit Card,,user3953@example.com
+ORD100883,CUST9477,PROD646,Books,2024-04-22,2.0,178.74,Debit Card,UK,user1400@example.com
+ORD100884,CUST2304,PROD496,Clothing,2024-09-15,4.0,224.68,UPI,USA,user2840@example.com
+ORD100885,CUST4321,PROD996,Books,2024-01-04,,431.36,Debit Card,USA,user2633@example.com
+ORD100886,CUST4768,PROD121,Electronics,2023-11-26,5.0,163.43,Credit Card,Australia,user2065@example.com
+ORD100887,CUST5411,,Clothing,2024-09-12,1.0,72.32,Debit Card,USA,user543@example.com
+ORD100888,CUST4512,PROD747,Clothing,2024-07-01,2.0,490.77,Debit Card,,user4189@example.com
+ORD100889,,PROD295,Home,2024-12-09,1.0,5.18,Debit Card,Germany,user535@example.com
+ORD100890,CUST2582,PROD959,Home,2024-08-24,,474.67,Cash on Delivery,UK,user4385@example.com
+ORD100891,CUST1170,PROD331,Clothing,2023-04-17,4.0,242.84,Credit Card,UK,user2103@example.com
+ORD100892,CUST4227,PROD842,Sports,2023-01-01,5.0,117.77,Debit Card,UK,user712@example.com
+ORD100893,CUST7238,PROD634,Sports,2024-10-24,3.0,473.38,Debit Card,UK,user254@example.com
+ORD100894,CUST4802,PROD594,Clothing,,,487.26,Wallet,India,user3963@example.com
+ORD100895,CUST8889,PROD251,Beauty,2023-06-04,4.0,189.31,Debit Card,UK,user181@example.com
+ORD100896,CUST4052,,Beauty,2024-07-09,5.0,62.94,Debit Card,Germany,user1315@example.com
+ORD100897,CUST5784,PROD746,Clothing,2023-11-26,4.0,471.94,Credit Card,Australia,user4600@example.com
+ORD100898,CUST4062,PROD795,Home,2023-04-18,5.0,12.1,Debit Card,Canada,user4021@example.com
+ORD100899,CUST3655,PROD307,,2023-06-28,1.0,100.32,Cash on Delivery,UK,user4239@example.com
+ORD100900,CUST4889,PROD557,Beauty,2024-07-26,2.0,497.01,Wallet,Australia,user2315@example.com
+ORD100901,CUST9431,PROD531,,2024-08-16,1.0,10.73,UPI,India,user1321@example.com
+ORD100902,CUST4542,PROD971,Electronics,2024-02-22,3.0,291.02,Debit Card,Australia,
+ORD100903,CUST2193,PROD833,,2023-11-03,1.0,266.93,Wallet,USA,user247@example.com
+ORD100904,CUST7040,PROD248,Sports,2023-06-06,4.0,392.01,Wallet,India,user1809@example.com
+ORD100905,CUST9770,,Sports,,1.0,85.01,Wallet,,user1032@example.com
+ORD100906,CUST1107,PROD220,Books,2023-04-16,5.0,481.89,UPI,USA,user3802@example.com
+ORD100907,,PROD166,Books,2024-01-22,,497.65,Cash on Delivery,,user325@example.com
+ORD100908,CUST1567,PROD295,Sports,2024-07-25,2.0,318.59,UPI,India,user1216@example.com
+ORD100909,CUST2448,PROD301,Home,,2.0,256.93,Cash on Delivery,Germany,user830@example.com
+ORD100910,CUST9516,PROD325,Beauty,2023-06-01,5.0,231.07,UPI,Australia,user3949@example.com
+ORD100911,CUST4638,PROD411,Electronics,2024-06-05,1.0,148.57,Credit Card,Australia,user4873@example.com
+ORD100912,CUST1379,,,2024-04-06,5.0,279.25,Cash on Delivery,USA,user2949@example.com
+ORD100913,CUST7507,PROD160,Electronics,2023-07-31,5.0,409.47,,Australia,user4501@example.com
+ORD100914,,,Books,2024-03-10,1.0,282.71,Debit Card,India,user4488@example.com
+ORD100915,CUST1820,PROD718,Electronics,2024-12-11,5.0,273.07,Credit Card,Canada,user3862@example.com
+ORD100916,CUST6719,PROD112,Electronics,2023-07-09,1.0,38.63,Credit Card,,user2373@example.com
+ORD100917,CUST2373,PROD294,Books,2024-01-18,,353.93,Cash on Delivery,UK,user598@example.com
+ORD100918,CUST7259,PROD900,Sports,2023-07-22,4.0,74.51,Cash on Delivery,India,user194@example.com
+ORD100919,CUST3422,PROD528,Clothing,2024-11-11,2.0,6.83,UPI,,user4972@example.com
+ORD100920,CUST9886,PROD384,Books,2023-04-21,,16.85,Debit Card,Canada,user1133@example.com
+ORD100921,CUST3503,PROD981,Sports,2024-05-26,1.0,15.68,Debit Card,,user4917@example.com
+ORD100922,CUST1041,PROD369,Beauty,2023-04-26,1.0,226.93,Debit Card,Australia,user690@example.com
+ORD100923,CUST8496,PROD230,Home,2023-01-27,,311.79,UPI,Canada,user1394@example.com
+ORD100924,CUST5799,PROD225,Beauty,2023-05-22,4.0,90.05,,India,user2774@example.com
+ORD100925,CUST9025,PROD587,Clothing,2023-12-26,2.0,450.48,,Germany,
+ORD100926,CUST5596,PROD225,Home,2024-01-01,5.0,485.35,UPI,Australia,
+ORD100927,CUST3117,PROD398,Home,2024-02-03,2.0,336.14,Debit Card,Germany,user1266@example.com
+ORD100928,CUST5229,PROD338,Beauty,,3.0,19.42,Cash on Delivery,USA,user885@example.com
+ORD100929,CUST6329,PROD704,Sports,2024-01-26,4.0,24.51,UPI,Canada,user3655@example.com
+ORD100930,,PROD634,Sports,2024-03-15,3.0,265.24,Wallet,Germany,user1532@example.com
+ORD100931,CUST2376,PROD590,Home,2023-03-24,3.0,272.18,Credit Card,Australia,user4959@example.com
+ORD100932,CUST7676,,Sports,2023-06-12,3.0,412.19,Cash on Delivery,UK,user2304@example.com
+ORD100933,CUST2004,PROD283,Books,2024-02-20,3.0,303.73,Wallet,USA,user2596@example.com
+ORD100934,CUST8914,PROD237,,,3.0,228.07,Wallet,Germany,user160@example.com
+ORD100935,CUST6534,PROD780,Electronics,2023-05-11,1.0,119.33,UPI,,user1589@example.com
+ORD100936,CUST1392,PROD188,Beauty,2024-07-25,1.0,67.51,Cash on Delivery,UK,user3316@example.com
+ORD100937,CUST1183,PROD170,Electronics,2024-05-22,1.0,434.17,Cash on Delivery,USA,user4992@example.com
+ORD100938,CUST5823,PROD535,Electronics,2024-12-30,2.0,,Credit Card,Germany,user43@example.com
+ORD100939,CUST7805,PROD982,Books,2024-02-04,4.0,409.92,UPI,Canada,
+ORD100940,CUST9227,PROD393,Home,2024-11-29,1.0,444.08,UPI,Germany,user17@example.com
+ORD100941,CUST2768,PROD659,Beauty,2023-03-31,1.0,295.04,Cash on Delivery,Australia,user1640@example.com
+ORD100942,CUST7595,PROD430,Clothing,,5.0,412.72,Credit Card,USA,user1872@example.com
+ORD100943,CUST3652,PROD841,Electronics,2024-03-22,5.0,,Debit Card,UK,user1377@example.com
+ORD100944,CUST5171,,Books,2023-11-05,2.0,242.51,Debit Card,UK,
+ORD100945,CUST5647,PROD908,Books,2024-08-01,5.0,72.02,Credit Card,UK,user3595@example.com
+ORD100946,CUST8210,PROD227,Books,2024-07-27,4.0,348.85,Credit Card,,
+ORD100947,CUST8877,PROD174,Books,,4.0,428.45,Debit Card,Australia,user4419@example.com
+ORD100948,CUST7191,PROD596,Beauty,2023-07-12,2.0,479.75,Credit Card,Germany,user4036@example.com
+ORD100949,CUST5934,PROD428,Sports,2023-05-31,1.0,468.61,Debit Card,UK,user1320@example.com
+ORD100950,CUST9142,PROD200,Clothing,2023-05-06,5.0,301.57,,Germany,user3118@example.com
+ORD100951,CUST2281,,Clothing,2024-01-02,5.0,17.02,,Germany,user4556@example.com
+ORD100952,CUST7012,PROD564,Clothing,2024-10-18,3.0,298.2,Wallet,Germany,
+ORD100953,CUST5035,PROD648,Clothing,2023-11-22,3.0,295.03,Cash on Delivery,India,user3271@example.com
+ORD100954,CUST3266,PROD265,Books,2023-05-26,3.0,239.85,Cash on Delivery,Germany,user2212@example.com
+ORD100955,CUST2089,PROD795,Books,2023-07-13,1.0,189.09,UPI,Germany,user1355@example.com
+ORD100956,CUST8259,PROD576,Sports,2024-11-13,5.0,100.3,Credit Card,Germany,user2178@example.com
+ORD100957,CUST7419,,Electronics,2024-01-25,,205.56,Cash on Delivery,Australia,user223@example.com
+ORD100958,CUST3891,PROD455,Home,2024-05-27,4.0,386.73,UPI,USA,user1530@example.com
+ORD100959,,,Electronics,2023-04-24,1.0,146.58,Cash on Delivery,Canada,user3099@example.com
+ORD100960,CUST8331,PROD760,Books,2023-12-11,1.0,,Wallet,Germany,user663@example.com
+ORD100961,CUST9251,PROD183,Sports,2023-09-15,,309.44,Credit Card,India,
+ORD100962,CUST4409,PROD940,Clothing,2023-06-24,2.0,72.21,UPI,Canada,user3587@example.com
+ORD100963,CUST3962,PROD811,Beauty,2023-09-24,1.0,,Credit Card,USA,user2453@example.com
+ORD100964,CUST9255,PROD643,,2024-02-23,5.0,,UPI,UK,user1272@example.com
+ORD100965,CUST5511,PROD737,Clothing,2023-03-18,5.0,387.68,,,user1721@example.com
+ORD100966,CUST7042,PROD952,Sports,2023-01-31,2.0,389.18,Wallet,Canada,user498@example.com
+ORD100967,CUST2742,PROD600,Beauty,2023-06-19,,206.88,UPI,Germany,user1908@example.com
+ORD100968,CUST5322,,Clothing,2024-10-18,3.0,429.47,Cash on Delivery,India,user3628@example.com
+ORD100969,CUST3461,,Beauty,2024-12-06,2.0,199.68,UPI,,user2442@example.com
+ORD100970,CUST2404,PROD122,Electronics,2024-06-07,1.0,450.24,Wallet,Canada,user3@example.com
+ORD100971,CUST6575,PROD188,Beauty,2024-09-25,4.0,212.68,Credit Card,Germany,user1674@example.com
+ORD100972,CUST7077,,Sports,2024-05-01,5.0,29.13,UPI,Canada,user3008@example.com
+ORD100973,CUST7342,PROD602,Books,2024-10-12,1.0,429.33,Cash on Delivery,UK,user2691@example.com
+ORD100974,CUST5616,PROD817,Electronics,2024-09-01,4.0,348.35,Cash on Delivery,India,user99@example.com
+ORD100975,,PROD827,Home,,2.0,123.5,UPI,,user1242@example.com
+ORD100976,CUST7171,PROD753,Home,2023-03-02,3.0,193.03,Wallet,,user3584@example.com
+ORD100977,CUST6223,PROD465,Beauty,2023-11-10,2.0,,Wallet,,user2007@example.com
+ORD100978,CUST1143,PROD677,Electronics,2024-08-21,,91.23,Wallet,Australia,user84@example.com
+ORD100979,CUST5035,PROD730,Home,2023-11-18,5.0,266.5,,,user2785@example.com
+ORD100980,CUST7524,PROD973,Clothing,2023-07-11,,229.68,Cash on Delivery,Australia,user4348@example.com
+ORD100981,CUST2308,PROD388,Beauty,2023-12-13,2.0,198.91,Debit Card,India,user319@example.com
+ORD100982,CUST4245,PROD463,Home,2024-04-04,3.0,225.89,Wallet,India,user1839@example.com
+ORD100983,CUST3624,PROD790,Sports,2023-08-23,4.0,424.91,,Australia,
+ORD100984,CUST2598,PROD516,Clothing,2023-02-18,3.0,27.44,Credit Card,USA,user2813@example.com
+ORD100985,CUST2732,PROD889,Clothing,,5.0,11.14,Credit Card,India,user499@example.com
+ORD100986,CUST4753,PROD167,Electronics,2023-09-09,5.0,98.72,Debit Card,UK,user708@example.com
+ORD100987,CUST2751,PROD169,Clothing,2023-05-14,,80.29,UPI,USA,user4319@example.com
+ORD100988,CUST1754,PROD154,Clothing,2023-11-10,3.0,177.44,Cash on Delivery,Canada,
+ORD100989,CUST4321,,Home,2023-03-04,4.0,42.64,Credit Card,Australia,user1642@example.com
+ORD100990,CUST9747,PROD546,Sports,2024-03-13,3.0,211.72,Wallet,USA,user1206@example.com
+ORD100991,CUST6487,,Home,2023-07-27,3.0,26.96,Debit Card,UK,user1406@example.com
+ORD100992,CUST1190,PROD980,Sports,2024-06-15,1.0,173.0,UPI,Canada,user3833@example.com
+ORD100993,CUST2145,PROD523,Sports,2024-06-05,2.0,499.18,Wallet,Australia,
+ORD100994,CUST2406,PROD717,Home,2024-08-09,4.0,,Wallet,Australia,user510@example.com
+ORD100995,CUST7042,PROD752,Home,2023-07-18,1.0,,Cash on Delivery,Germany,user3313@example.com
+ORD100996,CUST2549,PROD252,Books,2024-03-05,4.0,425.25,Wallet,USA,user3468@example.com
+ORD100997,CUST1121,PROD311,Beauty,2023-09-07,5.0,467.54,Credit Card,Canada,user3435@example.com
+ORD100998,CUST2721,PROD352,Electronics,2023-01-08,4.0,388.13,Credit Card,India,user4660@example.com
+ORD100999,CUST5518,PROD276,Sports,2023-05-04,5.0,286.61,UPI,Australia,user91@example.com
